@@ -1,0 +1,3915 @@
+[
+  {
+    "id": "1.1.1",
+    "lesson": "BÀI 1",
+    "question": "Điền vào chỗ trống: Vị trí môn học Giáo dục quốc phòng và an ninh là môn học điều kiện,... trong chương trình đào tạo Cao đẳng.",
+    "options": [
+      "bắt buộc thuộc khối các môn học chung",
+      "không thuộc khối các môn học chung",
+      "bắt buộc được tính vào điểm tốt nghiệp khi ra trường",
+      "không bắt buộc nhưng được tính vào điểm tốt nghiệp khi ra trường"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: bắt buộc thuộc khối các môn học chung."
+  },
+  {
+    "id": "1.1.2",
+    "lesson": "BÀI 1",
+    "question": "Theo Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018 nội dung chương trình môn học Giáo dục quốc phòng và an ninh trình độ Cao đẳng gồm có:",
+    "options": [
+      "10 bài lý thuyết, 3 bài thực hành",
+      "10 bài thực hành, 3 bài lý thuyết",
+      "9 bài lý thuyết, 4 bài thực hành",
+      "9 bài thực hành, 4 bài lý thuyết"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 10 bài lý thuyết, 3 bài thực hành."
+  },
+  {
+    "id": "1.1.3",
+    "lesson": "BÀI 1",
+    "question": "Nội dung nào sau đây không phải là phong cách của quân nhân trong Quân đội Nhân dân Việt Nam là?",
+    "options": [
+      "Giữ gìn phẩm chất đạo đức cách mạng, nhưng không phải kính trọng người già, yêu mến trẻ, tôn trọng phụ nữ.",
+      "Trong quan hệ quân nhân, mọi quân nhân phải giữ gìn phẩm chất đạo đức cách mạng, kính trọng người già, yêu mến trẻ, tôn trọng phụ nữ.",
+      "Quân nhân phải là người có ý thức, tổ chức kỷ luật, tinh thần đoàn kết, tương trợ, giúp đỡ lẫn nhau, có thái độ hòa nhã, khiêm tốn, biết tự chủ và hòa đồng.",
+      "Cấm quân nhân uống rượu, bia khi thực hiện nhiệm vụ, uống say rượu, bia ở mọi nơi, không hút thuốc lá nơi công cộng, không tàng trữ sử dụng chất kích thích."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giữ gìn phẩm chất đạo đức cách mạng, nhưng không phải kính trọng người già, yêu mến trẻ, tôn trọng phụ nữ.."
+  },
+  {
+    "id": "1.1.4",
+    "lesson": "BÀI 1",
+    "question": "Trong phong cách Quân đội nhân dân Việt Nam, quân nhân xưng hô với nhau là:",
+    "options": [
+      "“Đồng chí” và xưng “Tôi”",
+      "Xưng “Tôi” và Thủ Trưởng",
+      "Xưng tên và chức vụ",
+      "Xưng chức vụ và Thủ Trưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Đồng chí” và xưng “Tôi”."
+  },
+  {
+    "id": "1.1.5",
+    "lesson": "BÀI 1",
+    "question": "Khi báo cáo cấp trên đồng chí A thực hiện theo trình tự như sau:",
+    "options": [
+      "Chào, giới thiệu họ tên, chức vụ, đơn vị, báo cáo",
+      "Báo cáo đại đội trưởng tiểu đội 1, tổng số 10, đủ báo cáo hết",
+      "Báo cáo đại đội trưởng tổng số tiểu đội 1 hiện diện 10, báo cáo đủ hết",
+      "Tiểu đội trưởng tiểu đội 1 báo cáo đại đội trưởng tiểu đội tổng 10 hết"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chào, giới thiệu họ tên, chức vụ, đơn vị, báo cáo."
+  },
+  {
+    "id": "1.1.6",
+    "lesson": "BÀI 1",
+    "question": "Môn Giáo dục quốc phòng & an ninh được tổ chức dạy và học, theo thông tư nào?",
+    "options": [
+      "Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018",
+      "Thông tư số 08/2015/TT – BLĐTBXH ngày 27/02/2015",
+      "Thông tư số 01/2018/TT – BGDĐT ngày 26/01/2018",
+      "Thông tư số 02/2017/TT – BGDĐT ngày 13/01/2017"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018."
+  },
+  {
+    "id": "1.2.1",
+    "lesson": "BÀI 1",
+    "question": "Theo Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018 mục tiêu về kỹ năng môn Giáo dục quốc phòng & an ninh là:",
+    "options": [
+      "Nhận biết, xác định, nhận thức đúng, thực hiện đúng quan điểm, đường lối chính sách pháp luật của Đảng, Nhà nước",
+      "Phân tích và chứng minh quan điểm, đường lối, pháp luật của Đảng, Nhà nước Công hòa xã hội chủ nghĩa Việt Nam",
+      "Làm đúng theo chủ trương, đường lối chính sách của Đảng, Nhà nước",
+      "Làm theo, thực hiện đúng quan điểm, đường lối chính sách pháp luật của Nhà nước xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhận biết, xác định, nhận thức đúng, thực hiện đúng quan điểm, đường lối chính sách pháp luật của Đảng, Nhà nước."
+  },
+  {
+    "id": "1.2.2",
+    "lesson": "BÀI 1",
+    "question": "Theo Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018 mục tiêu về năng lực tự chủ và trách nhiệm của sinh viên sau khi học xong nội dung chương trình môn Giáo dục quốc phòng & an ninh là:",
+    "options": [
+      "Có tinh thần, ý thức trách nhiệm, rèn luyện và sẵn sàng tham gia xây dựng bảo vệ Tổ quốc",
+      "Có tinh thần, ý thức trách nhiệm, rèn luyện và sẵn sàng tham gia xây dựng Tổ quốc",
+      "Có trách nhiệm và luôn luôn rèn luyện, sẵn sàng bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Có trách nhiệm và luôn luôn rèn luyện, sẵn sàng xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Có tinh thần, ý thức trách nhiệm, rèn luyện và sẵn sàng tham gia xây dựng bảo vệ Tổ quốc."
+  },
+  {
+    "id": "1.2.3",
+    "lesson": "BÀI 1",
+    "question": "Theo Thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018 mục tiêu kiến thức môn Giáo dục quốc phòng & an ninh là:",
+    "options": [
+      "Trình bày được nội dung cơ bản môn Giáo dục quốc phòng & an ninh",
+      "Hiểu được nội dung cơ bản môn Giáo dục quốc phòng & an ninh",
+      "Phân tích được nội dung cơ bản môn Giáo dục quốc phòng & an ninh",
+      "Giải thích được nội dung cơ bản môn Giáo dục quốc phòng & an ninh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Trình bày được nội dung cơ bản môn Giáo dục quốc phòng & an ninh."
+  },
+  {
+    "id": "1.2.4",
+    "lesson": "BÀI 1",
+    "question": "Nội dung nào dưới đây không thuộc mục tiêu kiến thức, kỹ năng, về năng lực tự chủ trong chương trình môn học Giáo dục quốc phòng & an ninh, theo thông tư số 10/2018/TT – BLĐTBXH ngày 26/09/2018?",
+    "options": [
+      "Phân tích được nội dung sâu sắc môn Giáo dục quốc phòng & an ninh",
+      "Trình bày được nội dung cơ bản môn Giáo dục quốc phòng & an ninh",
+      "Nhận biết, xác định, nhận thức đúng, thực hiện đúng quan điểm, đường lối chính sách pháp luật của Đảng, Nhà nước",
+      "Có tinh thần, ý thức trách nhiệm, rèn luyện và sẵn sàng tham gia xây dựng bảo vệ Tổ quốc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phân tích được nội dung sâu sắc môn Giáo dục quốc phòng & an ninh."
+  },
+  {
+    "id": "1.2.5",
+    "lesson": "BÀI 1",
+    "question": "Nội dung nào dưới đây không thuộc biện pháp quản lý bộ đội thực hiện lễ tiết tác phong quân nhân?",
+    "options": [
+      "Phải thường xuyên chỉnh chu trang phục cho quân nhân, rèn luyện tính tổ chức kỷ luật cho mỗi quân nhân và việc thực hiện lễ tiết tác phong quân nhân.",
+      "Phải thường xuyên giáo dục cho quân nhân nắm chắc và hiểu biết về tầm quan trọng của việc thực hiện lễ tiết tác phong quân nhân.",
+      "Đề cao vai trò trách nhiệm, có phương pháp tác phong công tác khoa học gương mẫu, có tinh thần đoàn kết trong công tác quản lý bộ đội thực hiện các quy định về lễ tiết tác phong quân nhân.",
+      "Thường xuyên kiểm tra, nhận xét đánh giá kết quả thực hiện, chức trách, mối quan hệ với quân nhân và lễ tiết tác phong quân nhân chính xác, khách quan, khen thưởng, xử phạt nghiêm minh."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phải thường xuyên chỉnh chu trang phục cho quân nhân, rèn luyện tính tổ chức kỷ luật cho mỗi quân nhân và việc thực hiện lễ tiết tác phong quân nhân.."
+  },
+  {
+    "id": "1.2.6",
+    "lesson": "BÀI 1",
+    "question": "Nội dung nào dưới đây không thuộc phong cách của quân nhân trong quân đội nhân dân Việt Nam?",
+    "options": [
+      "Không thường xuyên giáo dục về tầm quan trọng của việc thực hiện theo quan điểm đường lối, chính sách của Đảng.",
+      "Giữ gìn phẩm chất đạo đức cách mạng, kính trọng người già, yêu mến trẻ, tôn trọng phụ nữ.",
+      "Có tổ chức kỹ luật, tinh thần đoàn kết, tương trợ, giúp đỡ lẫn nhau, có thái độ hòa nhã, khiêm tốn, biết tự chủ và hòa đồng.",
+      "Không uống rượu bia khi thực hiện nhiệm vụ, không mua bán, tàng trữ sử dụng chất kích thích."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Không thường xuyên giáo dục về tầm quan trọng của việc thực hiện theo quan điểm đường lối, chính sách của Đảng.."
+  },
+  {
+    "id": "2.1.1",
+    "lesson": "BÀI 2",
+    "question": "Chiến lược “Diễn biến hòa bình” của chủ nghĩa đế quốc nhằm lật đổ:",
+    "options": [
+      "Chế độ chính trị",
+      "Chế độ kinh tế",
+      "Chế độ văn hóa",
+      "Chế độ xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chế độ chính trị."
+  },
+  {
+    "id": "2.1.2",
+    "lesson": "BÀI 2",
+    "question": "“Diễn biến hòa bình” là chiến lược do lực lượng nào tiến hành?",
+    "options": [
+      "Chủ nghĩa đế quốc và các thế lực thù địch",
+      "Chủ nghĩa phát xít và các thế lực thù địch",
+      "Chủ nghĩa đế quốc và chủ nghĩa phát xít",
+      "Chủ nghĩa đế quốc và chủ nghĩa dân tộc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chủ nghĩa đế quốc và các thế lực thù địch."
+  },
+  {
+    "id": "2.1.3",
+    "lesson": "BÀI 2",
+    "question": "“Diễn biến hòa bình” là chiến lược cơ bản nhằm lật đổ các nước xã hội chủ nghĩa từ:",
+    "options": [
+      "Bên trong",
+      "Bên ngoài",
+      "Ngoài vào trong",
+      "Trên xuống dưới"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bên trong."
+  },
+  {
+    "id": "2.1.4",
+    "lesson": "BÀI 2",
+    "question": "Trong chiến lược“Diễn biến hòa bình”, bạo loạn lật đổ các thế lực thù địch sử dụng biện pháp nào là chính?",
+    "options": [
+      "Phi quân sự",
+      "Quân sự",
+      "Kinh tế",
+      "Chính trị"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phi quân sự."
+  },
+  {
+    "id": "2.1.5",
+    "lesson": "BÀI 2",
+    "question": "Hiện nay, trong chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ, các thế lực thù địch và chủ nghĩa đế quốc sử dụng mấy hình thức bạo loạn để chống phá Việt Nam?",
+    "options": [
+      "3 hình thức",
+      "2 hình thức",
+      "4 hình thức",
+      "5 hình thức"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 3 hình thức."
+  },
+  {
+    "id": "2.1.6",
+    "lesson": "BÀI 2",
+    "question": "Chiến lược “Diễn biến hòa bình” được bắt nguồn từ nước nào?",
+    "options": [
+      "Mỹ",
+      "Anh",
+      "Đức",
+      "Pháp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Mỹ."
+  },
+  {
+    "id": "2.1.7",
+    "lesson": "BÀI 2",
+    "question": "Trong chiến lược “Diễn biến hòa bình” trên lĩnh vực kinh tế chủ nghĩa đế quốc sử dụng thủ đoạn nào để chống phá Việt Nam?",
+    "options": [
+      "Khích lệ thành phần kinh tế tư nhân phát triển",
+      "Khích lệ thành phần kinh tế tập thể phát triển",
+      "Khích lệ thành phần kinh tế nhà nước phát triển",
+      "Khích lệ thành phần kinh tế có vốn đầu tư nước ngoài phát triển"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Khích lệ thành phần kinh tế tư nhân phát triển."
+  },
+  {
+    "id": "2.1.8",
+    "lesson": "BÀI 2",
+    "question": "Trong chiến lược “Diễn biến hòa bình”, chủ nghĩa đế quốc và các thế lực thù địch lấy lĩnh vực nào làm chủ đạo chống phá Việt Nam?",
+    "options": [
+      "Lĩnh vực kinh tế",
+      "Lĩnh vực chính trị",
+      "Lĩnh vực văn hóa, tư tưởng",
+      "Lĩnh vực ngoại giao"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lĩnh vực kinh tế."
+  },
+  {
+    "id": "2.1.9",
+    "lesson": "BÀI 2",
+    "question": "Lợi dụng vấn đề dân tộc, tôn giáo, truyền đạo trái phép để thực hiện âm mưu, thủ đoạn tôn giáo hóa dân tộc trong lĩnh vực nào dưới đây?",
+    "options": [
+      "Lĩnh vực xã hội",
+      "Lĩnh vực kinh tế",
+      "Lĩnh vực chính trị",
+      "Lĩnh vực văn hóa, tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lĩnh vực xã hội."
+  },
+  {
+    "id": "2.1.10",
+    "lesson": "BÀI 2",
+    "question": "Chủ nghĩa đế quốc và các thế lực thù địch thực hiện kích động đòi phủ nhận vai trò lãnh đạo của Đảng trong lực lượng vũ trang và đòi “phi chính trị hóa” lực lượng vũ trang Nhân dân Việt Nam. Đây là thủ đoạn trong:",
+    "options": [
+      "Lĩnh vực quốc phòng, an ninh",
+      "Lĩnh vực kinh tế, quốc phòng",
+      "Lĩnh vực tư tưởng, văn hóa",
+      "Lĩnh vực xã hội, tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lĩnh vực quốc phòng, an ninh."
+  },
+  {
+    "id": "2.1.11",
+    "lesson": "BÀI 2",
+    "question": "Mục đích cao nhất của chiến lược “Diễn biến hòa bình”, về chính trị ở Việt Nam là:",
+    "options": [
+      "Xóa bỏ chế độ xã hội chủ nghĩa ở Việt Nam.",
+      "Đòi thực hiện chế độ “đa nguyên chính trị, đa Đảng đối lập”.",
+      "Đòi “tự do hóa” về đời sống xã hội.",
+      "Xóa bỏ vai trò lãnh đạo của giai cấp công nhân."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xóa bỏ chế độ xã hội chủ nghĩa ở Việt Nam.."
+  },
+  {
+    "id": "2.1.12",
+    "lesson": "BÀI 2",
+    "question": "Nội dung nào dưới đây thể hiện thủ đoạn chiến lược “Diễn biến hòa bình” của chủ nghĩa đế quốc đối với Việt Nam?",
+    "options": [
+      "“Bao vây kinh tế”, “cô lập về ngoại giao”",
+      "Chống phá trong lĩnh vực xã hội",
+      "Chống phá trong lĩnh vực quốc phòng và an ninh",
+      "Chống phá trong lĩnh vực văn hóa, tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Bao vây kinh tế”, “cô lập về ngoại giao”."
+  },
+  {
+    "id": "2.2.1",
+    "lesson": "BÀI 2",
+    "question": "Bạo loạn lật đổ là hành động chống phá bằng:",
+    "options": [
+      "Bạo lực có tổ chức",
+      "Bạo lực không có tổ chức",
+      "Bạo loạn kinh tế",
+      "Bạo loạn chính trị"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bạo lực có tổ chức."
+  },
+  {
+    "id": "2.2.2",
+    "lesson": "BÀI 2",
+    "question": "Bạo loạn lật đổ là thủ đoạn của:",
+    "options": [
+      "Chủ nghĩa đế quốc và thế lực phản động",
+      "Chủ nghĩa phát xít và thế lực phản động",
+      "Chủ nghĩa đế quốc và chủ nghĩa phát xít",
+      "Chủ nghĩa dân tộc và thế lực phản động"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chủ nghĩa đế quốc và thế lực phản động."
+  },
+  {
+    "id": "2.2.3",
+    "lesson": "BÀI 2",
+    "question": "Trong chiến lược “Diễn biến hòa bình”, trên lĩnh vực đối ngoại, các thế lực thù địch và chủ nghĩa đế quốc sử dụng thủ đoạn nào chống phá Việt Nam?",
+    "options": [
+      "Chia rẽ Việt Nam, Lào, Campuchia và các nước xã hội chủ nghĩa",
+      "Chia rẽ Việt Nam, Philippin, Trung Quốc và các nước xã hội chủ nghĩa",
+      "Chia rẽ Việt Nam, Lào, Thái Lan và các nước xã hội chủ nghĩa",
+      "Chia rẽ Việt Nam, Campuchia, Trung quốc và các nước tiến bộ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chia rẽ Việt Nam, Lào, Campuchia và các nước xã hội chủ nghĩa."
+  },
+  {
+    "id": "2.2.4",
+    "lesson": "BÀI 2",
+    "question": "Mục tiêu của chủ nghĩa đế quốc và các thế lực thù địch thực hiện chiến lược “Diễn biến hòa bình”chống lại cách mạng Việt Nam nhằm:",
+    "options": [
+      "Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xóa bỏ chế độ xã hội chủ nghĩa",
+      "Không chuyển hóa sự lãnh đạo của đảng theo chủ nghĩa tư bản duy trì xã hội chủ nghĩa",
+      "Xóa bỏ chế độ xã hội chủ nghĩa và thúc đẩy nền kinh tế nước ta phát triển",
+      "Không xóa bỏ nhà nước xã hội chủ nghĩa mà buộc ta chấp nhận điều kiện của chúng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thực hiện âm mưu xoá bỏ vai trò lãnh đạo của Đảng, xóa bỏ chế độ xã hội chủ nghĩa."
+  },
+  {
+    "id": "2.2.5",
+    "lesson": "BÀI 2",
+    "question": "Trong chiến lược “Diễn biến hòa bình”, trên lĩnh vực tư tưởng - văn hóa, chủ nghĩa đế quốc và các thế lực thù địch thực hiện nhiều hoạt động nhằm:",
+    "options": [
+      "Xóa bỏ chủ nghĩa Mác- Lênin, tư tưởng Hồ Chí Minh",
+      "Xóa bỏ nền tảng tư tưởng xã hội chủ nghĩa",
+      "Xóa bỏ sự quản lý, điều hành của Nhà nước",
+      "Xóa bỏ vai trò lãnh đạo của Đảng, quản lý của Nhà nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xóa bỏ chủ nghĩa Mác- Lênin, tư tưởng Hồ Chí Minh."
+  },
+  {
+    "id": "2.2.6",
+    "lesson": "BÀI 2",
+    "question": "Mỹ thực hiện xóa bỏ “Cấm vận kinh tế” và bình thường hóa quan hệ ngoại giao đối với Việt Nam năm 1995 để chuyển sang thủ đoạn mới nào?",
+    "options": [
+      "Đẩy mạnh hoạt động xâm nhập như “dính líu”, “ngầm”, “sâu hiểm”",
+      "Thực hiện thủ đoạn xâm nhập “dính líu”, “liên kết”, “sâu hiểu”",
+      "Nuôi dưỡng các thế lực thù địch và chủ nghĩa đế quốc",
+      "Khích lệ nền kinh tế thị trường theo định hướng xã hội chủ nghĩa Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đẩy mạnh hoạt động xâm nhập như “dính líu”, “ngầm”, “sâu hiểm”."
+  },
+  {
+    "id": "2.2.7",
+    "lesson": "BÀI 2",
+    "question": "Chủ nghĩa đế quốc và các thế lực thù địch thực hiện “Nuôi dưỡng các tổ chức phản động lưu vong ở nước ngoài với các phần tử cực đoan, bất mãn trong nước, ngoài nước nhằm gây rối làm mất ổn định xã hội”. Đây là thủ đoạn hay âm mưu của chúng?",
+    "options": [
+      "Thủ đoạn",
+      "Âm mưu",
+      "Vừa là âm mưu vừa là thủ đoạn",
+      "Không phải âm mưu, không phải thủ đoạn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thủ đoạn."
+  },
+  {
+    "id": "2.2.8",
+    "lesson": "BÀI 2",
+    "question": "Nội dung nào dưới đây thuộc quan điểm chỉ đạo của Đảng Cộng sản Việt Nam trong phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      "Là một cuộc đấu tranh giai cấp, đấu tranh dân tộc gay go, quyết liệt, lâu dài phức tạp trên mọi lĩnh vực đời sống xã hội.",
+      "Không chủ động tích cực xử lý các tình huống và giải quyết hậu quả bạo loạn xảy ra.",
+      "Xây dựng tiềm lực vững mạnh để đối phó âm mưu, thủ đoạn chống phá của kẻ thù đối với Việt Nam.",
+      "Giữ vững bên trong, chủ động ngăn chặn, phòng ngừa; chủ động tiến công làm thất bại âm mưu, thủ đoạn của thế lực thù địch."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là một cuộc đấu tranh giai cấp, đấu tranh dân tộc gay go, quyết liệt, lâu dài phức tạp trên mọi lĩnh vực đời sống xã hội.."
+  },
+  {
+    "id": "2.2.9",
+    "lesson": "BÀI 2",
+    "question": "Nội dung nào dưới đây thuộc phương châm tiến hành của Đảng Cộng sản Việt Nam trong phòng chống chiến lược “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      "Chủ động, khôn khéo xử lý các tình huống và giải quyết hậu quả bạo loạn xảy ra.",
+      "Là một cuộc đấu tranh giai cấp, đấu tranh dân tộc gay go, quyết liệt, lâu dài phức tạp trên mọi lĩnh vực đời sống xã hội.",
+      "Là nhiệm vụ cấp bách hàng đầu hiện nay của toàn Đảng, toàn dân, toàn quân bảo vệ xã hội chủ nghĩa",
+      "Phát huy sức mạnh tổng hợp khối đại đoàn kết của toàn dân, của cả hệ thống chính trị dưới sự lãnh đạo của Đảng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chủ động, khôn khéo xử lý các tình huống và giải quyết hậu quả bạo loạn xảy ra.."
+  },
+  {
+    "id": "2.2.10",
+    "lesson": "BÀI 2",
+    "question": "Nội dung “Nâng cao nhận thức về âm mưu, thủ đoạn của các thế lực thù địch, nhằm nắm bắt mọi diễn biến không để bị động bất ngờ”. Đây là:",
+    "options": [
+      "Giải pháp phòng chống chiến lược “Diễn biến hòa bình”",
+      "Phương pháp phòng chống chiến lược “Diễn biến hòa bình”",
+      "Biện pháp phòng chống chiến lược “Diễn biến hòa bình”",
+      "Tính chất của phòng chống chiến lược “Diễn biến hòa bình”"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giải pháp phòng chống chiến lược “Diễn biến hòa bình”."
+  },
+  {
+    "id": "2.2.11",
+    "lesson": "BÀI 2",
+    "question": "“Để căn bệnh này tồn tại kéo dài trong đội ngũ cán bộ, đảng viên trong xã hội thì sẽ làm cản trở phát triển kinh tế - xã hội, làm suy yếu Đảng, suy yếu bộ máy Nhà nước, gây mất lòng tin nhân dân”. Nội dung trên thuộc giải pháp nào?",
+    "options": [
+      "Đẩy lùi tệ quan liêu tham nhũng, tiêu cực xã hội giữ vững định hướng xã hội chủ nghĩa",
+      "Nâng cao nhận thức âm mưu thủ đoạn của các thế lực thù địch trong chiến lược “diên biến hòa bình”",
+      "Xây dựng ý thúc bảo vệ Tổ quốc cho toàn dân",
+      "Xây dựng cơ sở chính trị xã hội vững mạnh về mọi mặt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đẩy lùi tệ quan liêu tham nhũng, tiêu cực xã hội giữ vững định hướng xã hội chủ nghĩa."
+  },
+  {
+    "id": "2.2.12",
+    "lesson": "BÀI 2",
+    "question": "Giải pháp xây dựng ý thức bảo vệ Tổ quốc cho toàn dân gồm sức mạnh tổng hợp của những yếu tố nào sau đây làm thất bại chiến lược “Diễn biến hòa bình” ở Việt Nam?",
+    "options": [
+      "Xây dựng chính trị, quân sự , kinh tế, văn hóa, khoa học công nghệ, sức mạnh trong nước và quốc tế",
+      "Xây dựng tình yêu quê hương, chính trị và quân sự",
+      "Xây dựng yếu tố kinh tế, quân sự thật hùng mạnh",
+      "Xây dựng phát triển kinh tế và giáo dục đào tạo nghề nghiệp, nâng cao trình độ tay nghề cho công nhân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng chính trị, quân sự , kinh tế, văn hóa, khoa học công nghệ, sức mạnh trong nước và quốc tế."
+  },
+  {
+    "id": "3.1.1",
+    "lesson": "BÀI 3",
+    "question": "Điền vào ô trống, dân quân tự vệ là...... thành phần của lực lượng vũ trang nhân dân nước Công hòa xã hội chủ nghĩa Việt Nam;",
+    "options": [
+      "lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác;",
+      "lực lượng vũ trang quần chúng nhân dân thoát ly sản xuất, công tác;",
+      "lực lượng dự bị động viên gồm quân nhân dự bị và phương tiện kỹ thuật;",
+      "lực lượng dân quân tự vệ đang là một công cụ chủ yếu để bảo vệ chủ quyền;"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác;."
+  },
+  {
+    "id": "3.1.2",
+    "lesson": "BÀI 3",
+    "question": "Tự vệ là tên gọi của lực lượng vũ trang được tổ chức ở:",
+    "options": [
+      "Cơ quan nhà nước, đơn vị sự nghiệp, tổ chức kinh tế",
+      "Đơn vị hành chính Xã, Phường, Thị trấn, tổ chức xã hội",
+      "Đơn vị hành chính tỉnh, thành phố",
+      "Đơn vị hành chính quận, huyện"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cơ quan nhà nước, đơn vị sự nghiệp, tổ chức kinh tế."
+  },
+  {
+    "id": "3.1.3",
+    "lesson": "BÀI 3",
+    "question": "Chủ tịch Hồ Chí Minh đã nói: “Dân quân tự vệ và du kích là lực lượng của toàn dân tộc, là lực lượng vô địch, là.....”",
+    "options": [
+      "bức tường sắt của Tổ quốc.",
+      "lực lượng chiến lược.",
+      "lực lượng nòng cốt.",
+      "thành đồng của Tổ quốc."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: bức tường sắt của Tổ quốc.."
+  },
+  {
+    "id": "3.1.4",
+    "lesson": "BÀI 3",
+    "question": "Lực lượng nào dưới đây là chiến lược, nòng cốt trong xây dựng nền quốc phòng toàn dân và phong trào toàn dân đánh giặc trong chiến tranh bảo vệ Tổ quốc?",
+    "options": [
+      "Dân quân tự vệ",
+      "Dự bị động viên",
+      "Lực lượng kiểm ngư",
+      "Lực lượng an ninh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Dân quân tự vệ."
+  },
+  {
+    "id": "3.1.5",
+    "lesson": "BÀI 3",
+    "question": "Hàng năm lực lượng dân quân tự vệ được huấn luyện theo nội dung, chương trình do cơ quan nào quy định?",
+    "options": [
+      "Bộ quốc phòng",
+      "Bộ công an",
+      "Bộ quốc phòng và Bộ công an",
+      "Ban chỉ huy quân sự, quân huyện"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bộ quốc phòng."
+  },
+  {
+    "id": "3.1.6",
+    "lesson": "BÀI 3",
+    "question": "Chỉ tuyển chọn đưa vào đội ngũ những công dân có lí lịch rõ ràng, có hộ khẩu thường trú tại địa phương, có phẩm chất chính trị, đạo đức tốt. Đây là phương châm:",
+    "options": [
+      "Coi trọng chất lượng là chính",
+      "Rộng khắp, chất lượng là chính",
+      "Vững mạnh, hiệu quả là chính",
+      "Chất lượng, thiết thực là chính"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Coi trọng chất lượng là chính."
+  },
+  {
+    "id": "3.1.7",
+    "lesson": "BÀI 3",
+    "question": "Điền vào ô trồng, lực lượng dự bị động viên gồm quân nhân dự bị và phương tiện kỹ thuật đã xếp trong kế hoạch bổ sung cho.......nhằm duy trì tiềm lực quân sự là yếu tố quyết định sự thắng lợi trong chiến tranh bảo vệ Tổ quốc.",
+    "options": [
+      "lực lượng thường trực của quân đội",
+      "lực lượng thường trực của công an",
+      "lực lượng thường trực của cảnh sát",
+      "lực lượng thường trực của tự vệ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lực lượng thường trực của quân đội."
+  },
+  {
+    "id": "3.1.8",
+    "lesson": "BÀI 3",
+    "question": "Theo quan điểm của Đảng, một trong những nội dung xây dựng lực lượng dự bị động viên là:",
+    "options": [
+      "Tạo nguồn, đăng ký, quản lý lực lượng dự bị động viên",
+      "Tạo nguồn, đăng ký, biên chế lực lượng dự bị động viên",
+      "Tạo nguồn, đăng ký, tổ chức lực lượng dự bị động viên",
+      "Tạo nguồn, đăng ký, kiểm tra lực lượng dự bị động viên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tạo nguồn, đăng ký, quản lý lực lượng dự bị động viên."
+  },
+  {
+    "id": "3.1.9",
+    "lesson": "BÀI 3",
+    "question": "Theo quan điểm của Đảng, cơ sở quan trọng nhất để lập kế hoạch xây dựng và huy động lực lượng dự bị động viên là:",
+    "options": [
+      "Tạo nguồn",
+      "Đăng kí quản lí nguồn",
+      "Bảo đảm hậu cần",
+      "Tổ chức, biên chế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tạo nguồn."
+  },
+  {
+    "id": "3.1.10",
+    "lesson": "BÀI 3",
+    "question": "Đơn vị dự bị động viên không được tổ chức theo loại hình nào?",
+    "options": [
+      "Đơn vị chuyên môn thời bình",
+      "Đơn vị biên chế khung thường trực",
+      "Đơn vị biên chế thiếu",
+      "Đơn vị biên chế đủ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đơn vị chuyên môn thời bình."
+  },
+  {
+    "id": "3.1.11",
+    "lesson": "BÀI 3",
+    "question": "“Cần tập trung vào đường lối, chủ trương, chính sách của Đảng, pháp luật Nhà nước quan điểm quốc phòng toàn dân, truyền thống đánh giặc giữ nước của dân tộc ta”. Nội dung trên giáo dục chính trị cho lực lượng nào sau đây?",
+    "options": [
+      "Dự bị động viên",
+      "Quần chúng nhân dân",
+      "Lượng an ninh dân phố",
+      "Dân phòng và quần chúng nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Dự bị động viên."
+  },
+  {
+    "id": "3.1.12",
+    "lesson": "BÀI 3",
+    "question": "Theo quan điểm của Đảng, lực lượng nòng cốt xây dựng nền quốc phòng toàn dân và phong trào toàn dân đánh giặc trong chiến tranh bảo vệ Tổ quốc ở thời bình tại địa phương là:",
+    "options": [
+      "Dân quân tự vệ",
+      "Bộ đội chủ lực",
+      "Cảnh sát biển",
+      "An ninh quốc gia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Dân quân tự vệ."
+  },
+  {
+    "id": "3.2.1",
+    "lesson": "BÀI 3",
+    "question": "Cơ quan nào chịu trách nhiệm làm tham mưu giúp cấp ủy, chính quyền tổ chức triển khai các hoạt động dân quân tự vệ?",
+    "options": [
+      "Ban Chỉ huy quân sự cơ sở",
+      "Chỉ huy trưởng tại địa phương",
+      "Chính trị viên tại địa phương",
+      "Ban Chỉ huy quân sự trung ương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ban Chỉ huy quân sự cơ sở."
+  },
+  {
+    "id": "3.2.2",
+    "lesson": "BÀI 3",
+    "question": "Lực lượng dự bị động viên được xếp trong kế hoạch bổ sung cho lực lượng nào?",
+    "options": [
+      "Lực lượng thường trực",
+      "Lực lượng không thường trực",
+      "Lực lượng dân quân tự vệ",
+      "Lực lượng vũ trang quần chúng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lực lượng thường trực."
+  },
+  {
+    "id": "3.2.3",
+    "lesson": "BÀI 3",
+    "question": "“Việc tổ chức xây dựng lực lượng dự bị động viên ở nước ta là một vấn đề hệ trọng, quan hệ đến vận mệnh của quốc gia, đặc biệt khi phải đối phó với chiến tranh quy mô lớn’’. Nội dung trên thuộc quan điểm nào dưới đây?",
+    "options": [
+      "Xây dựng lực lượng dự bị động viên bảo đảm số lượng đủ, chất lượng cao, xây dựng toàn diện nhưng có trọng tâm, trọng điểm",
+      "Xây dựng lực lượng dự bị động viên đặt dưới sự lãnh đạo của Đảng các cấp ở địa phương, bộ, ngành, phải phát huy sức mạnh tổng hợp của cả hệ thống chính trị",
+      "Tạo nguồn, đăng ký, quản lí lực lượng dự bị động viên, luôn luôn phải phát huy sức mạnh tổng hợp của cả hệ thống chính trị",
+      "Xây dựng lực lượng dự bị động viên phải phát huy sức mạnh tổng hợp của cả hệ thống chính trị"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng lực lượng dự bị động viên bảo đảm số lượng đủ, chất lượng cao, xây dựng toàn diện nhưng có trọng tâm, trọng điểm."
+  },
+  {
+    "id": "3.2.4",
+    "lesson": "BÀI 3",
+    "question": "Cơ cấu biên chế Ban chỉ huy quân sự được tổ chức ở xã, phường thị trấn gồm:",
+    "options": [
+      "Chỉ huy trưởng, chỉ huy phó, chính trị viên và chính trị viên phó",
+      "Chỉ huy trưởng, chỉ huy phó, phó trưởng chính trị viên và chủ tịch xã",
+      "Chính trị viên, chỉ huy trưởng, và chính trị viên và bí thư xã",
+      "Chỉ huy trưởng, chính trị viên và trưởng công an xã"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chỉ huy trưởng, chỉ huy phó, chính trị viên và chính trị viên phó."
+  },
+  {
+    "id": "3.2.5",
+    "lesson": "BÀI 3",
+    "question": "Theo quan điểm của Đảng, phương châm xây dựng Dân quân tự vệ:",
+    "options": [
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính.",
+      "Chất lượng, thiết thực, hiệu quả, coi trọng chất lượng là chính",
+      "Có trọng tâm, trọng điểm, hiệu quả, coi trọng chất lượng là chính",
+      "Nâng cao nhận thức về chính trị, có lập trường tư tưởng vững vàng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vững mạnh, rộng khắp, coi trọng chất lượng là chính.."
+  },
+  {
+    "id": "3.2.6",
+    "lesson": "BÀI 3",
+    "question": "Dân quân tự vệ là lực lượng do tổ chức nào lãnh đạo?",
+    "options": [
+      "Đảng Cộng sản Việt Nam",
+      "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "Tỉnh, thành phố và các cơ quan ngang bộ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": "3.2.7",
+    "lesson": "BÀI 3",
+    "question": "Các doanh nghiệp ngoài quốc doanh không đủ điều kiện tổ chức lực lượng dân quân tự vệ, nếu có yêu cầu thì giám đốc doanh nghiệp đề nghị và được cơ quan nào đồng ý?",
+    "options": [
+      "Bộ Chỉ huy quân sự tỉnh",
+      "Ban Chỉ huy quân sự cơ sở",
+      "Bộ Quốc phòng",
+      "Bí thư Đảng ủy tỉnh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bộ Chỉ huy quân sự tỉnh."
+  },
+  {
+    "id": "3.2.8",
+    "lesson": "BÀI 3",
+    "question": "Một trong những quan điểm, nguyên tắc của Đảng về xây dựng lực lượng dự bị động viên là:",
+    "options": [
+      "Bảo đảm số lượng đủ, chất lượng cao, xây dựng toàn diện có trọng tâm trọng điểm.",
+      "Bảo đảm số lượng đủ, chất lượng cao, xây dựng một số lĩnh vực có trọng tâm trọng điểm.",
+      "Bảo đảm số lượng đông, chất lượng cao, xây dựng rộng khắp có trọng tâm trọng điểm.",
+      "Bảo đảm số lượng đông, chất lượng cao, xây dựng trên toàn quốc, có trọng tâm trọng điểm."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo đảm số lượng đủ, chất lượng cao, xây dựng toàn diện có trọng tâm trọng điểm.."
+  },
+  {
+    "id": "3.2.9",
+    "lesson": "BÀI 3",
+    "question": "Nguyên tắc lãnh đạo của Đảng đối với lực lượng dự bị động viên nhằm đạt được mục đích:",
+    "options": [
+      "Bảo đảm sức mạnh của quân đội, đáp ứng yêu cầu vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Duy trì sức mạnh chiến đấu của lực lượng dân quân tự vệ, đáp ứng yêu cầu nhiệm vụ mới",
+      "Hoàn thiện cơ chế lãnh đạo và tăng cường cho lực lượng vũ trang nhân dân",
+      "Không hoàn thiện và tăng cường số lượng chất lượng cho lực lượng vũ trang khi có chiến tranh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo đảm sức mạnh của quân đội, đáp ứng yêu cầu vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa."
+  },
+  {
+    "id": "3.3.1",
+    "lesson": "BÀI 3",
+    "question": "Nội dung nào dưới đây là vị trí của lực lượng dân quân tự vệ?",
+    "options": [
+      "Là lực lượng chiến lược, nòng cốt trong xây dựng và bảo vệ Tổ quốc",
+      "Là lực lượng giữ vị trí quan trọng nhất trong quốc phòng và an ninh",
+      "Là một trong những nhiệm vụ cơ bản nhất góp phần xây dựng tiềm lực quốc phòng an ninh.",
+      "Là lực lượng quan trọng xây dựng và bảo vệ Tổ quốc nhưng không phải làm nòng cốt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là lực lượng chiến lược, nòng cốt trong xây dựng và bảo vệ Tổ quốc."
+  },
+  {
+    "id": "3.3.2",
+    "lesson": "BÀI 3",
+    "question": "Vị trí của lực lượng dự bị động viên là:",
+    "options": [
+      "Đảm bảo nguồn lực bổ sung, mở rộng lực lượng quân đội khi chuyển đất nước sang trạng thái thời chiến",
+      "Đảm bảo nguồn lực chủ chốt, mở rộng lực lượng quân đội khi chuyển đất nước sang trạng thái thời chiến",
+      "Làm nòng cốt cho toàn dân đánh giặc, chiến đấu, tiêu hao, tiêu diệt lực lượng, phương tiện địch",
+      "Là lực lượng không quan trọng toàn dân đánh giặc, chiến đấu, tiêu hao, tiêu diệt lực lượng, phương tiện địch"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảm bảo nguồn lực bổ sung, mở rộng lực lượng quân đội khi chuyển đất nước sang trạng thái thời chiến."
+  },
+  {
+    "id": "3.3.3",
+    "lesson": "BÀI 3",
+    "question": "Quân đội Nhân dân của nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm các lực lượng nào sau đây?",
+    "options": [
+      "Bộ đội chủ lực; Bộ đội địa phương ; Bộ đội biên phòng",
+      "Bộ đội chủ lực; Dân quân tự vệ, lực lượng công an",
+      "Bộ đội địa phương; Lực lượng Dự bị động viên",
+      "Dân quân tự vệ; Lực lượng Dự bị động viên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bộ đội chủ lực; Bộ đội địa phương ; Bộ đội biên phòng."
+  },
+  {
+    "id": "4.1.1",
+    "lesson": "BÀI 4",
+    "question": "Một quốc gia độc lập theo luật quốc tế hiện đại phải có quyền cơ bản nào sau đây?",
+    "options": [
+      "Bình đẳng về chủ quyền",
+      "Bình đẳng về kinh tế",
+      "Bình đẳng về chính trị",
+      "Bình đẳng về văn hóa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bình đẳng về chủ quyền."
+  },
+  {
+    "id": "4.1.2",
+    "lesson": "BÀI 4",
+    "question": "Theo luật quốc tế hiện đại quốc gia là thực thể pháp lý gồm những yếu tố cấu thành?",
+    "options": [
+      "Lãnh thổ, dân cư và quyền lực công cộng",
+      "Lãnh thổ, văn hóa và kinh tế",
+      "Dân cư, văn hóa và quyền lực công cộng",
+      "Lập pháp, hành pháp và tư pháp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lãnh thổ, dân cư và quyền lực công cộng."
+  },
+  {
+    "id": "4.1.3",
+    "lesson": "BÀI 4",
+    "question": "Lãnh thổ Việt Nam có ba mặt giáp biển là:",
+    "options": [
+      "Đông, Nam, Tây Nam",
+      "Đông, Bắc, Tây Nam",
+      "Đông Bắc, Nam, Tây Nam",
+      "Tây Nam, Nam, Bắc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đông, Nam, Tây Nam."
+  },
+  {
+    "id": "4.1.4",
+    "lesson": "BÀI 4",
+    "question": "Bờ biển nước Cộng hòa xã hội chủ nghĩa Việt Nam dài bao nhiêu km?",
+    "options": [
+      "3260 km",
+      "3620 km",
+      "2360 km",
+      "2260km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 3260 km."
+  },
+  {
+    "id": "4.1.5",
+    "lesson": "BÀI 4",
+    "question": "Chủ quyền quốc gia là quyền làm chủ một cách toàn vẹn và đầy đủ được xác định đầy đủ về mọi mặt:",
+    "options": [
+      "Lập pháp, hành pháp và tư pháp",
+      "Lập pháp, hành pháp",
+      "Hành pháp, hiến pháp và tư pháp",
+      "Tư pháp, hành pháp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lập pháp, hành pháp và tư pháp."
+  },
+  {
+    "id": "4.1.6",
+    "lesson": "BÀI 4",
+    "question": "Vùng đặc quyền kinh tế của Việt Nam được tính từ đường cơ sở ra phía ngoài rộng bao nhiêu hải lý theo Công Ước của Liên hợp quốc về Luật Biển năm 1982?",
+    "options": [
+      "200 hải lý",
+      "188 hải lý",
+      "12 hải lý",
+      "24 hải lý"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 200 hải lý."
+  },
+  {
+    "id": "4.1.7",
+    "lesson": "BÀI 4",
+    "question": "Đường biên giới trên biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam được xác định theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 là:",
+    "options": [
+      "Ranh giới phía ngoài của lãnh hải",
+      "Có 12 hải lí được tính từ đường cơ sở",
+      "Ranh giới ngoài của lãnh hải ra 12 hải lí",
+      "Ranh giới ngoài của vùng nước nội thủy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ranh giới phía ngoài của lãnh hải."
+  },
+  {
+    "id": "4.1.8",
+    "lesson": "BÀI 4",
+    "question": "Lãnh thổ quốc gia Việt Nam bao gồm:",
+    "options": [
+      "Vùng đất, vùng trời, vùng biển và vùng lãnh thổ quốc gia đặc biệt",
+      "Vùng trời, vùng mặt đất, vùng nội thủy, vùng lãnh thổ quốc gia đặc biệt",
+      "Vùng đất quốc gia, vùng lãnh hải, vùng biển",
+      "Vùng nước quốc gia, vùng đất và vùng trời quốc gia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vùng đất, vùng trời, vùng biển và vùng lãnh thổ quốc gia đặc biệt."
+  },
+  {
+    "id": "4.1.9",
+    "lesson": "BÀI 4",
+    "question": "Việt Nam căn cứ theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 xác định, ranh giới ngoài của lãnh hải là:",
+    "options": [
+      "Đường biên giới trên biển",
+      "Đường cơ sở trên biển",
+      "Vùng đặc quyền kinh tế",
+      "Vùng lãnh thổ bổ sung"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường biên giới trên biển."
+  },
+  {
+    "id": "4.1.10",
+    "lesson": "BÀI 4",
+    "question": "Việt Nam căn cứ theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 xác định, vùng lãnh hải được tính từ:",
+    "options": [
+      "Đường biên giới trên biển trở vào 12 hải lý",
+      "Đường biên giới trên biển trở vào đất liền",
+      "Đường cơ sở trở vào đất liền",
+      "Đường biên giới trên biển ra 12 hải lý"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường biên giới trên biển trở vào 12 hải lý."
+  },
+  {
+    "id": "4.1.11",
+    "lesson": "BÀI 4",
+    "question": "Việt Nam căn cứ theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 xác định, lãnh hải là vùng biển có chiều rộng 12 hải lý được:",
+    "options": [
+      "Tính từ đường cơ sở đến biên giới trên biển",
+      "Tính từ bờ ra đến biển đến biên giới trên biển",
+      "Tính từ ngấn nước ngầm thấp nhất",
+      "Tính từ mức thủy triều cao nhất"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tính từ đường cơ sở đến biên giới trên biển."
+  },
+  {
+    "id": "4.1.12",
+    "lesson": "BÀI 4",
+    "question": "Theo luật pháp quốc tế hiện đại quy định, lãnh thổ quốc gia là phạm vi không gian được giới hạn bởi:",
+    "options": [
+      "Biên giới quốc gia",
+      "Mốc giới quốc gia",
+      "Tọa độ trên bản đồ",
+      "Chủ quyền quốc gia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Biên giới quốc gia."
+  },
+  {
+    "id": "4.1.13",
+    "lesson": "BÀI 4",
+    "question": "Theo luật pháp quốc tế hiện đại quy định, biên giới quốc gia có chủ quyền trên đất liền được xác định bằng:",
+    "options": [
+      "Hệ thống mốc giới trên thực địa",
+      "Hệ thống tọa độ trên hải đồ",
+      "Hệ thống mốc giới trên biển",
+      "Hệ thống các yếu tố địa hình"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hệ thống mốc giới trên thực địa."
+  },
+  {
+    "id": "4.1.14",
+    "lesson": "BÀI 4",
+    "question": "Căn cứ vào Luật biển Việt Nam năm 2013, vùng nước nội thủy nước Cộng hòa xã hội chủ nghĩa Việt Nam được tính từ:",
+    "options": [
+      "Đường cơ sở trở vào đất liền",
+      "Đường biên giới trên biển trở vào đất liền",
+      "Bờ biển Việt Nam trở vào đất liền",
+      "Đường biên giới trên biển trở ra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường cơ sở trở vào đất liền."
+  },
+  {
+    "id": "4.1.15",
+    "lesson": "BÀI 4",
+    "question": "Căn cứ Luật biên giới quốc gia, đường biên giới trên đất liền của Việt Nam đã được xác định với chiều dài:",
+    "options": [
+      "4.550 km",
+      "3.550 km",
+      "2.550 km",
+      "4.450 km"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 4.550 km."
+  },
+  {
+    "id": "4.2.1",
+    "lesson": "BÀI 4",
+    "question": "Đối với các đảo của một quốc gia nằm ngoài phạm vi lãnh hải của quốc gia, biên giới quốc gia trên biển là:",
+    "options": [
+      "Đường ranh giới phía ngoài của lãnh hải bao quanh đảo",
+      "Đường cơ sở bao quanh đảo của quốc gia đó",
+      "Vùng đặc quyền kinh tế của quốc gia đó theo quy định quốc tế",
+      "Vùng tiếp giáp lãnh hải của quốc gia đó"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường ranh giới phía ngoài của lãnh hải bao quanh đảo."
+  },
+  {
+    "id": "4.2.2",
+    "lesson": "BÀI 4",
+    "question": "Việt Nam căn cứ theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 xác định, vùng lãnh hải bao gồm:",
+    "options": [
+      "Lãnh hải của đất liền, của đảo, của quần đảo",
+      "Nội thủy, lãnh hải của đất liền và thềm lục địa",
+      "Nội thủy, vùng đặc quyền về kinh tế, vùng tiếp giáp lãnh hải",
+      "Thềm lục địa, vùng đặc quyền về kinh tế, lãnh thổ bổ sung"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lãnh hải của đất liền, của đảo, của quần đảo."
+  },
+  {
+    "id": "4.2.3",
+    "lesson": "BÀI 4",
+    "question": "Căn cứ vào Luật biển Việt Nam năm 2013, vùng biển quốc gia gồm:",
+    "options": [
+      "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa",
+      "Nội thủy, thềm lục địa, vùng đất, vùng trời, vùng biển và vùng quốc gia đặc biệt",
+      "Thềm lục địa, lãnh hải, vùng đất, đường cơ sở, đường biên giới, quốc gia đặc biệt",
+      "Thềm lục địa, vùng tiếp giáp lãnh hải, vùng trời, đường cơ sở, đường biên giới"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa."
+  },
+  {
+    "id": "4.2.4",
+    "lesson": "BÀI 4",
+    "question": "Việt Nam căn cứ theo Công Ước của Liên hợp quốc về Luật Biển năm 1982 xác định, vùng đặc quyền kinh tế của Việt Nam được xác định từ biên giới trên biển có chiều rộng là bao nhiêu?",
+    "options": [
+      "188 hải lý",
+      "200 hải lý",
+      "12 hải lý",
+      "24 hải lý"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 188 hải lý."
+  },
+  {
+    "id": "4.2.5",
+    "lesson": "BÀI 4",
+    "question": "Vùng trời quốc gia nước Việt Nam được giới hạn bởi:",
+    "options": [
+      "Mặt phẳng thẳng đứng biên giới quốc gia",
+      "Mặt phẳng đứng biên giới trên biển",
+      "Mặt thẳng đứng biên giới trên đất liền",
+      "Mặt phẳng thẳng đứng đường biên giới trong lòng đất"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Mặt phẳng thẳng đứng biên giới quốc gia."
+  },
+  {
+    "id": "4.2.6",
+    "lesson": "BÀI 4",
+    "question": "Lãnh thổ đặc thù của một quốc gia tồn tại hợp pháp trong lãnh thổ một quốc gia khác hoặc trên vùng biển, vùng trời quốc tế gọi là:",
+    "options": [
+      "Lãnh thổ quốc gia đặc biệt",
+      "Vùng trời quốc gia",
+      "Vùng biển quốc gia",
+      "Vùng đất quốc gia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Lãnh thổ quốc gia đặc biệt."
+  },
+  {
+    "id": "4.2.7",
+    "lesson": "BÀI 4",
+    "question": "Căn cứ vào Luật biên giới xác định, biên giới quốc gia trong lòng đất là:",
+    "options": [
+      "Mặt phẳng thẳng đứng từ biên giới quốc gia trên đất liền, trên biển xuống lòng đất.",
+      "Mặt phẳng thẳng đứng từ biên giới quốc gia trên biển xuống lòng đất.",
+      "Mặt phẳng thẳng đứng từ biên giới quốc gia ra không trung.",
+      "Mặt phẳng thẳng đứng từ biên giới quốc gia trên đất liền xuống lòng đất."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Mặt phẳng thẳng đứng từ biên giới quốc gia trên đất liền, trên biển xuống lòng đất.."
+  },
+  {
+    "id": "4.2.8",
+    "lesson": "BÀI 4",
+    "question": "Về những vấn đề tranh chấp chủ quyền lãnh thổ trên bộ, trên biển do lịch sử để lại hoặc mới nảy sinh, Đảng và nhà nước ta khẳng định:",
+    "options": [
+      "“Việt Nam luôn sẵn sàng thương lượng hòa bình để giải quyết một cách có lí, có tình”",
+      "“Biên giới quốc gia của nước Cộng hòa xã hội chủ nghĩa Việt Nam là thiêng liêng, bất khả xâm phạm”",
+      "Tư tưởng “Sông núi nước Nam vua Nam ở” của ông cha ta được tiếp nối, khẳng định và nâng lên tầm cao mới.",
+      "“Xây dựng, quản lí, bảo vệ biên giới quốc gia, khu vực biên giới là sự nghiệp của toàn dân do Nhà nước thống nhất quản lí”."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Việt Nam luôn sẵn sàng thương lượng hòa bình để giải quyết một cách có lí, có tình”."
+  },
+  {
+    "id": "4.2.9",
+    "lesson": "BÀI 4",
+    "question": "Quan điểm nhất quán của Đảng, Nhà nước trong xây dựng bảo vệ chủ quyền biên giới quốc gia?",
+    "options": [
+      "Xây dựng biên giới hòa bình, hữu nghị, ổn định",
+      "Tăng cường xây dựng khối đại đoàn kết toàn dân",
+      "Giữ vững ổn định chính trị, phát triển kinh tế - xã hội",
+      "Tăng cường quốc phòng và an ninh của đất nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng biên giới hòa bình, hữu nghị, ổn định."
+  },
+  {
+    "id": "5.1.1",
+    "lesson": "BÀI 5",
+    "question": "Đảng ta nhận định: “Trên thế giới hòa bình, hợp tác và phát triển” vẫn là:",
+    "options": [
+      "Xu thế lớn trong quan hệ giữa các dân tộc",
+      "Xu thế chủ đạo trong quan hệ giữa các dân tộc",
+      "Xu thế chủ yếu trong quan hệ giữa các dân tộc",
+      "Xu thế quyết định sự phát triển của thế giới"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xu thế lớn trong quan hệ giữa các dân tộc."
+  },
+  {
+    "id": "5.1.2",
+    "lesson": "BÀI 5",
+    "question": "Đảng nhận định quan hệ dân tộc, sắc tộc hiện nay trên thế giới vẫn diễn ra rất phức tạp, nóng bỏng ở phạm vi:",
+    "options": [
+      "Quốc gia, khu vực và quốc tế",
+      "Châu Phi và châu Mỹ La tinh",
+      "Châu Á và châu Âu",
+      "Các nước Xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quốc gia, khu vực và quốc tế."
+  },
+  {
+    "id": "5.1.3",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm của Lênin khi giải quyết các vấn đề dân tộc:",
+    "options": [
+      "Các dân tộc hoàn toàn bình đẳng",
+      "Các vấn đề dân tộc phải phân chia đẳng cấp rõ ràng",
+      "Các dân tộc phải tự trị ly khai",
+      "Các dân tộc phải có nền văn hóa chung"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các dân tộc hoàn toàn bình đẳng."
+  },
+  {
+    "id": "5.1.4",
+    "lesson": "BÀI 5",
+    "question": "Tư tưởng Hồ Chí Minh về dân tộc và giải quyết vấn đề dân tộc là:",
+    "options": [
+      "Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp đỡ nhau cùng phát triển",
+      "Quan tâm nâng cao đời sống văn hóa, tinh thần đồng bào dân tộc thiểu số",
+      "Xây dựng mối quan hệ hài hòa giữa các dân tộc trong đại gia đình các dân tộc Việt Nam",
+      "Xây dựng quan hệ tốt đẹp giữa các dân tộc Việt Nam với các quốc gia dân tộc trên thế giới"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp đỡ nhau cùng phát triển."
+  },
+  {
+    "id": "5.1.5",
+    "lesson": "BÀI 5",
+    "question": "Một trong các đặc điểm của các dân tộc ở Việt Nam là:",
+    "options": [
+      "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ",
+      "Các dân tộc thiểu số ở Việt Nam cư trú du canh, du cư",
+      "Các dân tộc thiểu số ở Việt Nam cư trú tập trung ở miền Bắc",
+      "Các dân tộc thiểu số ở Việt Nam cư trú tập trung ở Tây Nguyên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ."
+  },
+  {
+    "id": "5.1.6",
+    "lesson": "BÀI 5",
+    "question": "Một trong các đặc điểm của các dân tộc ở Việt Nam là:",
+    "options": [
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đều",
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển trung bình",
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển còn hạn chế",
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển đồng đều"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đều."
+  },
+  {
+    "id": "5.1.7",
+    "lesson": "BÀI 5",
+    "question": "“Dân tộc Việt Nam có truyền thống đoàn kết gắn bó trong xây dựng quốc gia dân tộc thống nhất”. Nội dung trên thuộc:",
+    "options": [
+      "Đặc điểm các dân tộc ở Việt Nam",
+      "Quan điểm của Đảng ta",
+      "Chính sách của Nhà nước ta",
+      "Tư tưởng Hồ Chí Minh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đặc điểm các dân tộc ở Việt Nam."
+  },
+  {
+    "id": "5.1.8",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm chủ nghĩa Mác – Lênin, tôn giáo là một hình thái ý thức xã hội, phản ánh hiện thực khách quan theo:",
+    "options": [
+      "Quan niệm hoang đường, ảo tưởng, phù hợp với tâm lý, hành vi của con người.",
+      "Trào lưu của xã hội phù hợp với tư tưởng, tình cảm, niềm tin của con người.",
+      "Quy luật phát triển của đời sống xã hội, được mọi người tin tưởng tham gia.",
+      "Chuẩn mực đạo đức, truyền thống được con người tiếp nhận tin theo."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quan niệm hoang đường, ảo tưởng, phù hợp với tâm lý, hành vi của con người.."
+  },
+  {
+    "id": "5.1.9",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, tôn giáo có nguồn gốc:",
+    "options": [
+      "Kinh tế - xã hội, nhận thức và tâm lý.",
+      "Kinh tế - xã hội, ý thức và hành vi.",
+      "Chính trị - xã hội, tinh thần và tâm lý.",
+      "Chính trị - xã hội, kinh tế và tinh thần."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Kinh tế - xã hội, nhận thức và tâm lý.."
+  },
+  {
+    "id": "5.1.10",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, tôn giáo có những tính chất nào?",
+    "options": [
+      "Tính lịch sử, tính quần chúng và tính chính trị.",
+      "Tính kế thừa, tính phát triển và tính toàn diện.",
+      "Tính chọn lọc, tính bổ sung và tính phát triển.",
+      "Tính kế thừa, tính xây dựng và tính phục vụ."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tính lịch sử, tính quần chúng và tính chính trị.."
+  },
+  {
+    "id": "5.1.11",
+    "lesson": "BÀI 5",
+    "question": "Nước Việt Nam hiện nay có bao nhiêu tôn giáo lớn?",
+    "options": [
+      "6 tôn giáo",
+      "10 tôn giáo",
+      "5 tôn giáo",
+      "4 tôn giáo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 6 tôn giáo."
+  },
+  {
+    "id": "5.1.12",
+    "lesson": "BÀI 5",
+    "question": "Tính chất nào của tôn giáo phản ánh khát vọng của quần chúng bị áp bức về một xã hội tự do, bình đẳng bác ái?",
+    "options": [
+      "Tính quần chúng",
+      "Tính lịch sử",
+      "Tính chính trị",
+      "Tính văn hóa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tính quần chúng."
+  },
+  {
+    "id": "5.2.1",
+    "lesson": "BÀI 5",
+    "question": "“Sự va chạm, mâu thuẫn lợi ích giữa các quốc gia dân tộc với nhau, trong quốc tế diễn ra trên mọi lĩnh vực đời sống xã hội”. Đây là quan điểm của:",
+    "options": [
+      "Chủ nghĩa Mác – Lênin",
+      "Lênin – Hồ Chí Minh",
+      "Mác – Hồ Chí Minh",
+      "Hồ Chí Minh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chủ nghĩa Mác – Lênin."
+  },
+  {
+    "id": "5.2.2",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm của Chủ nghĩa Mác – Lênin, giải quyết vấn đề dân tộc được xác định:",
+    "options": [
+      "Vừa là mục tiêu, vừa là động lực của Cách mạng xã hội chủ nghĩa",
+      "Vừa là quan điểm, vừa là phương châm của Nhà nước Vô sản",
+      "Vừa là nhiệm vụ, vừa là phương thức của Nhà nước xã hội chủ nghĩa",
+      "Vừa là quan điểm, vừa là mục tiêu của Nhà nước xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vừa là mục tiêu, vừa là động lực của Cách mạng xã hội chủ nghĩa."
+  },
+  {
+    "id": "5.2.3",
+    "lesson": "BÀI 5",
+    "question": "Mâu thuẫn nảy sinh tôn giáo là:",
+    "options": [
+      "Mâu thuẫn đối kháng",
+      "Mâu thuẫn giữa chính trị - kinh tế",
+      "Mâu thuẫn văn hóa – xã hội.",
+      "Mâu thuẫn dân tộc – tôn giáo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Mâu thuẫn đối kháng."
+  },
+  {
+    "id": "5.2.4",
+    "lesson": "BÀI 5",
+    "question": "“Trong xã hội nguyên thủy, do trình độ lực lượng sản xuất còn thấp kém, con người cảm thấy yếu đuối lệ thuộc và bất lực trước tự nhiên”. Đây là nội dung của:",
+    "options": [
+      "Nguồn gốc kinh tế - xã hội của tôn giáo",
+      "Nguồn gốc nhận thức của tôn giáo",
+      "Nguồn gốc tâm lý của tôn giáo",
+      "Tính chất của tôn giáo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nguồn gốc kinh tế - xã hội của tôn giáo."
+  },
+  {
+    "id": "5.2.5",
+    "lesson": "BÀI 5",
+    "question": "Nguồn gốc nào của tôn giáo gắn liền với những yếu tố hiện thực khách quan và do con người suy diễn ra?",
+    "options": [
+      "Nguồn gốc nhận thức",
+      "Nguồn gốc tâm lý",
+      "Nguồn gốc kinh tế- xã hội",
+      "Nguồn gốc lịch sử"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nguồn gốc nhận thức."
+  },
+  {
+    "id": "5.2.6",
+    "lesson": "BÀI 5",
+    "question": "Vấn đề dân tộc và đoàn kết dân tộc ở nước ta hiện nay được Đảng ta xác định:",
+    "options": [
+      "Là vấn đề chiến lược cơ bản, lâu dài, cấp bách hiện nay của cách mạng Việt Nam",
+      "Cơ bản lâu dài, cấp bách hiện nay và có ý nghĩa quyết định thắng lợi của sự nghiệp cách mạng Việt Nam",
+      "Là đặc biệt quan trọng của cách mạng Việt Nam",
+      "Là nguồn sức mạnh chủ yếu của đất Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là vấn đề chiến lược cơ bản, lâu dài, cấp bách hiện nay của cách mạng Việt Nam."
+  },
+  {
+    "id": "5.2.7",
+    "lesson": "BÀI 5",
+    "question": "Quan điểm, chính sách về dân tộc của Đảng, Nhà nước ta hiện nay là:",
+    "options": [
+      "“Thực hiện chính sách bình đẳng, đoàn kết, tương trợ, tạo mọi điều kiện để phát triển đi lên... các dân tộc Việt Nam”",
+      "“Thực hiện chính sách bình đẳng, phát triển kinh tế, bảo vệ môi trường và chăm lo đời sống vật chất, tinh thần... các dân tộc Việt Nam”",
+      "Chống kỳ thị, hẹp hòi nhằm mục đích chia rẽ dân tộc",
+      "Chống lợi dụng vấn đề dân tộc để gây mất ổn định đất nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Thực hiện chính sách bình đẳng, đoàn kết, tương trợ, tạo mọi điều kiện để phát triển đi lên... các dân tộc Việt Nam”."
+  },
+  {
+    "id": "5.2.8",
+    "lesson": "BÀI 5",
+    "question": "Nội dung nào dưới đây không phải là quan điểm, chính sách về tôn giáo của Đảng, Nhà nước ta hiện nay:",
+    "options": [
+      "Tôn giáo tồn tại bởi giá trị văn hóa tâm linh và là nhu cầu của toàn xã hội",
+      "Tôn giáo còn tồn tại lâu dài, là nhu cầu của một bộ phận nhân dân.",
+      "Tôn giáo có những giá trị văn hóa, đạo đức tích cực, phù hợp với xã hội mới.",
+      "Đồng bào tôn giáo là một bộ phận quan trọng của khối đại đoàn kết dân tộc."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tôn giáo tồn tại bởi giá trị văn hóa tâm linh và là nhu cầu của toàn xã hội."
+  },
+  {
+    "id": "5.2.9",
+    "lesson": "BÀI 5",
+    "question": "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là:",
+    "options": [
+      "Vận động quần chúng sống “tốt đời, đẹp đạo”.",
+      "Vận động quần chúng sống “kính chúa yêu nước”.",
+      "Vận động quần chúng sống “phúc âm trong lòng dân tộc”.",
+      "Vận động quần chúng sống “từ bi, bác ái”."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vận động quần chúng sống “tốt đời, đẹp đạo”.."
+  },
+  {
+    "id": "5.2.10",
+    "lesson": "BÀI 5",
+    "question": "Ở nước ta, công tác tôn giáo là trách nhiệm của:",
+    "options": [
+      "Toàn bộ hệ thống chính trị do Đảng lãnh đạo",
+      "Toàn dân, một bộ phận nhân dân trong toàn xã hội",
+      "Các tổ chức chính trị - xã hội và cơ quan nhà nước",
+      "Mặt trận Tổ quốc và các đoàn thể do Đảng lãnh đạo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Toàn bộ hệ thống chính trị do Đảng lãnh đạo."
+  },
+  {
+    "id": "5.2.11",
+    "lesson": "BÀI 5",
+    "question": "Giải pháp chung cơ bản nhất của Đảng để vô hiệu hóa việc lợi dụng vấn đề dân tộc, tôn giáo ở Việt Nam của các thế lực thù địch là:",
+    "options": [
+      "Thực hiện tốt chính sách phát triển kinh tế - xã hội",
+      "Tăng cường xây dựng củng cố chính sách đối ngoại",
+      "Tăng cường xây dựng củng cố các tổ chức chính trị vững mạnh",
+      "Thực hiện tốt chính sách đền ơn đáp nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thực hiện tốt chính sách phát triển kinh tế - xã hội."
+  },
+  {
+    "id": "5.2.12",
+    "lesson": "BÀI 5",
+    "question": "Theo quan điểm của Đảng, nội dung nào sau đây là giải pháp cơ bản xây dựng khối đại đoàn kết toàn dân tộc đối với các tôn giáo?",
+    "options": [
+      "Chăm lo nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, các tôn giáo",
+      "Tạo mọi điều kiện cho đồng bào các dân tộc, các tôn giáo thực hiện tốt nghĩa vụ của mình đối với đất nước",
+      "Chú trọng công tác giáo dục thuyết phục đối với các già làng, trưởng bản, chức sắc tôn giáo",
+      "Kịp thời phát hiện, ngăn chặn đối phó có hiệu quả đối với những lực lượng phản động"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chăm lo nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, các tôn giáo."
+  },
+  {
+    "id": "6.1.1",
+    "lesson": "BÀI 6",
+    "question": "Phòng ngừa tội phạm là nhiệm vụ của:",
+    "options": [
+      "Các cơ quan nhà nước, các tổ chức xã hội và công dân",
+      "Của riêng lực lượng quân đội và công an, dân quân tự vệ",
+      "Cơ quan hành chính nhà nước và công dân",
+      "Viện kiểm sát nhân dân , tòa án nhân dân các cấp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các cơ quan nhà nước, các tổ chức xã hội và công dân."
+  },
+  {
+    "id": "6.1.2",
+    "lesson": "BÀI 6",
+    "question": "Điền vào ô trống. “Tội pham là hành vi nguy hiểm cho xã hội được quy đinh trong Bộ luật hình sự do người có....... hoặc pháp nhân thương mại thực hiện một cách vô ý hoạc cố ý”?",
+    "options": [
+      "Năng lực trách nhiệm hình sự",
+      "năng lực hình sự và năng lực dân dân sự",
+      "Không có năng lực kinh tế",
+      "Năng lực trách nhiệm kinh tế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Năng lực trách nhiệm hình sự."
+  },
+  {
+    "id": "6.1.3",
+    "lesson": "BÀI 6",
+    "question": "Mục đích của phòng ngừa tội phạm nhằm:",
+    "options": [
+      "Khắc phục những nguyên nhân, điều kiện của tình trạng phạm tội...",
+      "Xóa bỏ các nguyên nhân, điều kiện từng đối tượng của tình trạng phạm tội...",
+      "Đề ra các biện pháp phù hợp để hạn chế tình trạng phạm tội",
+      "Xây dựng hệ thống Nhà nước, pháp luật và các văn bản dưới luật"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Khắc phục những nguyên nhân, điều kiện của tình trạng phạm tội...."
+  },
+  {
+    "id": "6.1.4",
+    "lesson": "BÀI 6",
+    "question": "Lực lượng cở sở có vai trò, vị trí như thế nào trong đấu tranh phòng chống tội phạm?",
+    "options": [
+      "Rất quan trọng",
+      "Ít quan trọng",
+      "Không quan trọng",
+      "Không có vai trò"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Rất quan trọng."
+  },
+  {
+    "id": "6.1.5",
+    "lesson": "BÀI 6",
+    "question": "Đối tượng nào dưới đây không phải là chủ thể trong hoạt động phòng chống tội phạm gồm?",
+    "options": [
+      "Hội đồng bảo an liệp quốc, tổ chức tầm nhìn thế giới, ngân hàng thế giới",
+      "Quốc hội và hội đồng nhân dân các cấp, chính phủ và ủy ban nhân dân các cấp",
+      "Các tổ chức xã hội, các tổ chức quần chúng tự quản, công dân",
+      "Các cơ quan bảo vệ pháp luật: công an nhân dân, viện kiểm sát nhân dân, tòa án nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hội đồng bảo an liệp quốc, tổ chức tầm nhìn thế giới, ngân hàng thế giới."
+  },
+  {
+    "id": "6.1.6",
+    "lesson": "BÀI 6",
+    "question": "Tổ chức nào dưới đây không phải là chủ thể phòng chống tội phạm?",
+    "options": [
+      "Tổ chức phi chính phủ và các cơ quan tương đương",
+      "Chính phủ và ủy ban nhân dân các cấp",
+      "Tổ chức xã hội, các tổ chức quần chúng tự quản, công dân",
+      "Cơ quan bảo vệ pháp luật: công an nhân dân, viện kiểm sát nhân dân, tòa án nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tổ chức phi chính phủ và các cơ quan tương đương."
+  },
+  {
+    "id": "6.1.7",
+    "lesson": "BÀI 6",
+    "question": "Cơ quan chuyên trách bảo vệ pháp luật trong phòng chống tội phạm gồm:",
+    "options": [
+      "Công an nhân dân, viện kiểm sát nhân dân, tòa án nhân dân",
+      "Công an nhân dân, quân đội nhân dân, tòa án quân sự",
+      "Công an nhân dân, bộ đội biên phòng, cảnh sát biển",
+      "Cảnh sát giao thông, kiểm soát quân sự"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Công an nhân dân, viện kiểm sát nhân dân, tòa án nhân dân."
+  },
+  {
+    "id": "6.1.8",
+    "lesson": "BÀI 6",
+    "question": "Công dân với tư cách là chủ thể trong phòng chống tội phạm phải:",
+    "options": [
+      "Tích cực tham gia hoạt động phòng ngừa tội phạm",
+      "Quản lý, giáo dục các thành viên liên quan đến phòng ngừa tội phạm",
+      "Trực tiếp không tham gia phòng ngừa tội phạm",
+      "Gián tiếp tham gia điều tra, truy tố, xét xử tội phạm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tích cực tham gia hoạt động phòng ngừa tội phạm."
+  },
+  {
+    "id": "6.1.9",
+    "lesson": "BÀI 6",
+    "question": "Chức năng của Quốc hội trong công tác đấu tranh phòng chống tội phạm là:",
+    "options": [
+      "Ban hành các văn bản pháp luật và giám sát việc tuân thủ pháp luật",
+      "Đề ra các nghị định, biện pháp thích hợp đấu tranh phòng chống tội phạm",
+      "Điều hành các cơ quan hành pháp đấu tranh phòng chống tội phạm",
+      "Vận động các cơ quan hành pháp đấu tranh phòng chống tội phạm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ban hành các văn bản pháp luật và giám sát việc tuân thủ pháp luật."
+  },
+  {
+    "id": "6.1.10",
+    "lesson": "BÀI 6",
+    "question": "Chức năng của Chính phủ và Ủy ban nhân dân các cấp trong đấu tranh, phòng chống tội phạm là:",
+    "options": [
+      "Quản lý, điều hành, phối hợp, bảo đảm các điều kiện cần thiết",
+      "Đưa ra nghị quyết trong công tác phòng chống tội phạm",
+      "Đưa ra chỉ thị trong công tác phòng chống tội phạm",
+      "Truy tố, xét xử, cải tạo, tái hòa nhập cộng đồng đối tượng phạm tội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quản lý, điều hành, phối hợp, bảo đảm các điều kiện cần thiết."
+  },
+  {
+    "id": "6.1.11",
+    "lesson": "BÀI 6",
+    "question": "Điền vào ô trồng. “Tệ nạn xã hội là hiện tượng xã hội tiêu cực, có tính phổ biến, biểu hiện bằng .........và gây hậu quả nghiêm trọng trong đời sống cộng đồng”.",
+    "options": [
+      "hành vi sai lệch chuẩn mực xà hội, vi phạm đạo đức",
+      "hành vi đúng chuẩn mực, phù hợp với nếp sống văn minh",
+      "hành vi xâm phạm quyền lợi riêng tư cá nhân",
+      "hành vi bạo lực và coi thường người khác"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: hành vi sai lệch chuẩn mực xà hội, vi phạm đạo đức."
+  },
+  {
+    "id": "6.1.12",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào dưới đây thuộc khái niệm tệ nạn xã hội?",
+    "options": [
+      "Hành vi sai lệch chuẩn mực xà hội, vi phạm đạo đức",
+      "Tạo điều kiện phát sinh tình trạng phạm tội trong xã hội",
+      "Hình thành các nguyên nhân, điều kiện của tình trạng phạm tội",
+      "Hành vi đúng chuẩn mực, phù hợp với nếp sống văn minh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hành vi sai lệch chuẩn mực xà hội, vi phạm đạo đức."
+  },
+  {
+    "id": "6.2.1",
+    "lesson": "BÀI 6",
+    "question": "Một trong những nguyên nhân, điều kiện của tội phạm hiện nay:",
+    "options": [
+      "Hệ thống pháp luật chưa hoàn thiện, việc thực thi pháp luật kém hiệu quả",
+      "Hệ thống pháp luật hoàn thiện nhưng khung hình phạt các hành vi phạm tội còn nhẹ",
+      "Hệ thống pháp luật hoàn thiện nhưng hoạt động của các cơ quan tư pháp chưa tốt",
+      "Hệ thống pháp luật hoàn thiện nhưng việc thực thi pháp luật còn kém hiệu quả"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hệ thống pháp luật chưa hoàn thiện, việc thực thi pháp luật kém hiệu quả."
+  },
+  {
+    "id": "6.2.2",
+    "lesson": "BÀI 6",
+    "question": "Xác định một trong những nguyên nhân, điều kiện của tình trạng phạm tội hiện nay?",
+    "options": [
+      "lối sống hưởng thụ, sa đọa, tham lam ích kỷ",
+      "lối sống lành mạnh trong sạch, nề nếp",
+      "lối sống có phẩm chất đạo đức chuẩn mực",
+      "lối sống biết tuân thủ chính sách pháp luật"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lối sống hưởng thụ, sa đọa, tham lam ích kỷ."
+  },
+  {
+    "id": "6.2.3",
+    "lesson": "BÀI 6",
+    "question": "Lối sống coi thường chuẩn mực đạo đức, xã hội và pháp luật, làm xói mòn các giá trị đạo đức truyền thống, thuần phong mỹ tục của dân tộc là:",
+    "options": [
+      "Con đường dẫn đến tội phạm",
+      "Con đường dẫn đến thành đạt",
+      "Con đường dẫn đến thành công",
+      "Con đường dẫn đến thành danh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Con đường dẫn đến tội phạm."
+  },
+  {
+    "id": "6.2.4",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào dưới đây không phải là nguyên nhân, điều kiện của tình trạng phạm tội ở nước ta hiện nay?",
+    "options": [
+      "Tổ chức tiến hành các hoạt động phòng chống tội phạm",
+      "Sự tác động bởi mặt trái của nền kinh tế thị trường",
+      "Những hiện tượng tiêu cực do chế độ cũ để lại",
+      "Những hạn chế về mặt quản lý, kinh tế xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tổ chức tiến hành các hoạt động phòng chống tội phạm."
+  },
+  {
+    "id": "6.2.5",
+    "lesson": "BÀI 6",
+    "question": "Điền vào ô trống. “Bản chất của tệ nạn xã hội là xấu xa, trái với nếp sống văn minh,..... , trái với bản chất của chế độ xã hội chủ nghĩa”.",
+    "options": [
+      "trái với đạo đức",
+      "trái với lợi ích",
+      "trái với quyền lợi",
+      "trái với hoàn cảnh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: trái với đạo đức."
+  },
+  {
+    "id": "6.2.6",
+    "lesson": "BÀI 6",
+    "question": "Mục đích của công tác phòng chống tệ nạn xã hội là để:",
+    "options": [
+      "Ngăn ngừa, chặn đứng không để cho tệ nạn xã hội phát sinh",
+      "Tạo điều kiện phát sinh tình trạng phạm tội trong xã hội",
+      "Hình thành các nguyên nhân, điều kiện của tình trạng phạm tội",
+      "Đề ra các biện pháp phù hợp để hình thành tình trạng phạm tội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ngăn ngừa, chặn đứng không để cho tệ nạn xã hội phát sinh."
+  },
+  {
+    "id": "6.2.7",
+    "lesson": "BÀI 6",
+    "question": "Đặc điểm của hoạt động trong tệ nạn xã hội:",
+    "options": [
+      "Có tính lây lan nhanh trong xã hội",
+      "Không để lại hậu quả nghiêm trọng cho xã hội.",
+      "Không có tính lây lan nhanh trong xã hội",
+      "Phát triển dưới một hình thức cơ bản"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Có tính lây lan nhanh trong xã hội."
+  },
+  {
+    "id": "6.2.8",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào không phải là đặc điểm của hoạt động tệ nạn xã hội?",
+    "options": [
+      "Có tính lây lan chậm trong xã hội",
+      "Có tính lây lan nhanh trong xã hội",
+      "Có quan hệ chặt chẽ với tội phạm hình sự",
+      "Các hiện tượng tiêu cực xã hội khác chuyển hóa lẫn nhau"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Có tính lây lan chậm trong xã hội."
+  },
+  {
+    "id": "6.2.9",
+    "lesson": "BÀI 6",
+    "question": "Chủ trương, quan điểm của Đảng, Nhà nước là giáo dục cải tạo những người mắc tệ nạn xã hội làm cho họ trở thành:",
+    "options": [
+      "Công dân có ích cho xã hội",
+      "Công dân không có ích cho xã hội",
+      "Công dân vô ích cho xã hội",
+      "Công dân vô trách nhiệm với xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Công dân có ích cho xã hội."
+  },
+  {
+    "id": "6.2.10",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào dưới đây không phải là quan điểm của Đảng trong phòng chống tệ nạn xã hội?",
+    "options": [
+      "Không cần thiết phải cải tạo đối với những đối tượng hoạt động tệ nạn xã hội",
+      "Lòng ghép và kết hợp chặt chẽ công tác phòng chống tệ nạn xã hội với các chương trình phát triển kinh tế, văn hóa, xã hội địa phương",
+      "Phải được triển khai đồng bộ ở các cấp các ngành trong đó lấy phòng chống từ gia đình, cơ quan, đơn vị trường học làm cơ sở",
+      "Kết hợp chặt chẽ xử lý nghiêm khác với cảm hóa giáo dục, cải tạo đối với những đối tượng hoạt động tệ nạn xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Không cần thiết phải cải tạo đối với những đối tượng hoạt động tệ nạn xã hội."
+  },
+  {
+    "id": "6.2.11",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào dưới đây không thuộc hoạt động tổ chức trong phòng chống tệ nạn xã hội?",
+    "options": [
+      "Nhận thức rõ tác hại của tệ nạn xã hội từ đó nâng cao ý thức trách nhiệm",
+      "Tăng cường sự lãnh đạo của Đảng, quản lý của Nhà nước trong công tác phòng chống tệ nạn xã hội",
+      "Phối hợp chặt chẽ giữa các cơ quan có thẩm quyền để đẩy lùi các loại tệ nạn xã hội",
+      "Thường xuyên phát động phong trào phòng chống tệ nạn tại địa phương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhận thức rõ tác hại của tệ nạn xã hội từ đó nâng cao ý thức trách nhiệm."
+  },
+  {
+    "id": "6.2.12",
+    "lesson": "BÀI 6",
+    "question": "Nội dung nào dưới đây thuộc trách nhiệm đối với cá nhân trong phòng chống tệ nạn xã hội?",
+    "options": [
+      "Nhận thức rõ tác hại của tệ nạn xã hội từ đó nâng cao ý thức trách nhiệm",
+      "Tăng cường sự lãnh đạo của Đảng, quản lý của Nhà nước trong công tác phòng chống tệ nạn xã hội",
+      "Phối hợp chặt chẽ giữa các cơ quan có thẩm quyền để đẩy lùi các loại tệ nạn xã hội",
+      "Thường xuyên phát động phong trào phòng chống tệ nạn tại địa phương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhận thức rõ tác hại của tệ nạn xã hội từ đó nâng cao ý thức trách nhiệm."
+  },
+  {
+    "id": "7.1.1",
+    "lesson": "BÀI 7",
+    "question": "“Các vua Hùng có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”. câu nói trên là của ai?",
+    "options": [
+      "Hồ Chí Minh",
+      "Tôn Đức Thắng",
+      "Phạm Văn Đồng",
+      "Võ Nguyên Giáp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hồ Chí Minh."
+  },
+  {
+    "id": "7.1.2",
+    "lesson": "BÀI 7",
+    "question": "Chủ tịch Hồ Chí Minh nói: “......... có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”",
+    "options": [
+      "Các vua Hùng",
+      "Ông cha ta",
+      "Các thế hệ đi trước",
+      "Các vị vua"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các vua Hùng."
+  },
+  {
+    "id": "7.1.3",
+    "lesson": "BÀI 7",
+    "question": "Một trong những điều kiện thuận lợi về Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng của cách mạng Việt Nam hiện nay:",
+    "options": [
+      "Trong lịch sử dân tộc Việt Nam, ông cha ta đã không chịu khuất phục trước mọi kẻ thù lớn mạnh bên ngoài và xây đắp truyền thống dựng nước và giữ nước.",
+      "Tình hình thế giới có nhiều biến động phức tạp, khó lường các thế lực thù địch sử dụng chiến lược “Diễn biến hòa bình” đối với các nước xã hội chủ nghĩa.",
+      "Sự nghiệp công nghiệp hóa, hiện đại hóa đất nước ta chưa phát triển mạnh mẽ , Việt Nam đang trở thành đất nước phát triển hàng đầu châu Á.",
+      "Xây dựng chủ nghĩa xã hội đã thành công ở Việt Nam là bước đầu cho sự phát triển về kinh tế - xã hội."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Trong lịch sử dân tộc Việt Nam, ông cha ta đã không chịu khuất phục trước mọi kẻ thù lớn mạnh bên ngoài và xây đắp truyền thống dựng nước và giữ nước.."
+  },
+  {
+    "id": "7.1.4",
+    "lesson": "BÀI 7",
+    "question": "Một trong những khó khăn trực tiếp về Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng của cách mạng Việt Nam hiện nay:",
+    "options": [
+      "Nạn tham nhũng và các tệ nạn xã hội hiện nay tạo điều kiện “diễn biến hòa bình” phát triển.",
+      "Xây dựng Quân đội nhân dân và Công an nhân dân theo hướng cách mạng, chính quy, tinh nhuệ và từng bước hiện đại.",
+      "Thường xuyên tuyên truyền quan điểm, đường lối, chủ trương của Đảng",
+      "Giai cấp tư sản ở Việt Nam vẫn còn áp bức bóc lột giai cấp vô sản làm cho nhân dân trở nên nghèo khó."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nạn tham nhũng và các tệ nạn xã hội hiện nay tạo điều kiện “diễn biến hòa bình” phát triển.."
+  },
+  {
+    "id": "7.1.5",
+    "lesson": "BÀI 7",
+    "question": "Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là bảo vệ:",
+    "options": [
+      "Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa",
+      "Bảo vệ giai cấp tư sản và nhân dân lao động",
+      "Bảo vệ quyền lợi của các đảng phái chính trị",
+      "Chiến lược “Diễn biến hòa bình” được thực hiện ở Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa."
+  },
+  {
+    "id": "7.1.6",
+    "lesson": "BÀI 7",
+    "question": "Để bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng vững chắc cần tập trung vào một số mặt nào sau đây?",
+    "options": [
+      "Thường xuyên chăm lo xây dựng Đảng, tăng cường sự lãnh đạo của Đảng đối với quân đội và công an",
+      "Thường xuyên chăm lo, xây dựng cho giai cấp tư sản và nhân dân lao động trên thế giới",
+      "Thường xuyên thay đổi tổ chức đảng dân chủ, tổ chức chính trị - xã hội theo xu thế của thế giới",
+      "Tăng cường giao lưu tập trận chung với Mỹ và các nước tư bản trong khu vực"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thường xuyên chăm lo xây dựng Đảng, tăng cường sự lãnh đạo của Đảng đối với quân đội và công an."
+  },
+  {
+    "id": "7.1.7",
+    "lesson": "BÀI 7",
+    "question": "Quan điểm cơ bản của Đảng về Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là:",
+    "options": [
+      "Duy trì trật tự, kỷ cương, an toàn xã hội; giữ vững ổn định chính trị của đất nước",
+      "Xây dựng đất nước theo mô hình kinh tế thị trường định hướng tư bản chủ nghĩa",
+      "Bảo vệ chiến lược “Diễn biến hòa bình” ở Việt Nam của các nước trong khu vực",
+      "Bảo vệ giá trị văn hóa của chủ nghĩa thực dân và chủ nghĩa đế quốc ở Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Duy trì trật tự, kỷ cương, an toàn xã hội; giữ vững ổn định chính trị của đất nước."
+  },
+  {
+    "id": "7.1.8",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây không phải là Quan điểm cơ bản của Đảng về Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là:",
+    "options": [
+      "Xây dựng đất nước theo mô hình kinh tế thị trường định hướng tư bản chủ nghĩa",
+      "Bảo vệ an ninh chính trị, kinh tế văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội;",
+      "Giữ vưng ổn định chính trị của đát nước, ngăn ngừa đẩy lùi và làm thất bại âm mưu thủ hoạt động chống phá, thù địch không để bị động bất ngờ.",
+      "Xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh toàn diện;"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng đất nước theo mô hình kinh tế thị trường định hướng tư bản chủ nghĩa."
+  },
+  {
+    "id": "7.1.9",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây không phải là nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng:",
+    "options": [
+      "Không thường xuyên tuyên tuyền về chủ quyền biển đảo",
+      "Nâng cao chất lượng giáo dục bồi dưỡng kiến thức cho nhân dân",
+      "Kết hợp phát triển kinh tế - xã hội và phát triển mọi tiềm lực của đất nước",
+      "Tăng cường đổi mới và nâng cao chất lượng công tác hội nhập quốc tế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Không thường xuyên tuyên tuyền về chủ quyền biển đảo."
+  },
+  {
+    "id": "7.1.10",
+    "lesson": "BÀI 7",
+    "question": "Điền vào ô trồng. “Xây dựng ........... làm nền tảng phát huy sức mạnh tổng hợp của toàn dân tộc, trong đó Quân đội nhân dân và Công an nhân dân là nòng cốt”.",
+    "options": [
+      "thế trận lòng dân",
+      "lực lượng vũ trang",
+      "dân quân tự vệ",
+      "cơ sở chính trị - xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: thế trận lòng dân."
+  },
+  {
+    "id": "7.1.11",
+    "lesson": "BÀI 7",
+    "question": "Điền vào ô trồng. Giữ vững an ninh nội địa; giải quyết kịp thời các mâu thuẫn, tranh chấp trong nhân dân; xây dựng “ thế trận lòng dân” làm nền tảng phát huy sức mạnh tổng hợp của toàn dân tộc, trong đó ........... là nòng cốt?",
+    "options": [
+      "quân đội nhân dân và Công an nhân dân",
+      "lực lượng ân quân tự vệ và công an nhân dân",
+      "lực lượng công an nhân dân và lực luong an ninh nhân dân",
+      "quân đội nhân dân và dân quân tự vệ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: quân đội nhân dân và Công an nhân dân."
+  },
+  {
+    "id": "7.1.12",
+    "lesson": "BÀI 7",
+    "question": "Có mấy nhiệm vụ cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "3 nhiệm vụ",
+      "4 nhiệm vụ",
+      "5 nhiệm vụ",
+      "6 nhiệm vụ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 3 nhiệm vụ."
+  },
+  {
+    "id": "7.1.13",
+    "lesson": "BÀI 7",
+    "question": "Ý nào sau đây không thuộc nội dung bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Thực hiện thế trận chiến tranh nhân dân.",
+      "Duy trì trật tự, kỷ cương, an toàn xã hội.",
+      "Giữ vững ổn định chính trị của đất nước.",
+      "Hoạt động chống phá, thù địch, không để bị động, bất ngờ."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thực hiện thế trận chiến tranh nhân dân.."
+  },
+  {
+    "id": "7.1.14",
+    "lesson": "BÀI 7",
+    "question": "Theo quan điểm của Đảng, có mấy giải pháp cơ bản vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "5 giải pháp",
+      "4 giải pháp",
+      "6 giải pháp",
+      "3 giải pháp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 5 giải pháp."
+  },
+  {
+    "id": "7.1.15",
+    "lesson": "BÀI 7",
+    "question": "Điền vào ô trống. “Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là duy trì trật tự, kỷ cương, an toàn xã hội; giữ vững ............, ngăn ngừa, đẩy lùi và làm thất bại mọi âm mưu, hoạt động chống phá, thù địch, không để bị động bất ngờ”.",
+    "options": [
+      "ổn định chính trị đất nước",
+      "ổn định đất nước các đảng phái",
+      "hòa bình theo định hướng tư bản",
+      "ổn định lợi ích theo định hướng tư bản"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: ổn định chính trị đất nước."
+  },
+  {
+    "id": "7.2.1",
+    "lesson": "BÀI 7",
+    "question": "Yếu tố quan trọng nhất quyết định đến thắng lợi trong việc bảo vệ an ninh chính tri, văn hóa tư tưởng ở nước ta là:",
+    "options": [
+      "Đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước Việt Nam",
+      "Chỉ có quan điểm của Đảng, chính sách, pháp luật của Nhà nước Việt Nam",
+      "Đó là đường lối, chính sách, pháp luật của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "Đường lối quan điểm của Đảng, chính phủ của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước Việt Nam."
+  },
+  {
+    "id": "7.2.2",
+    "lesson": "BÀI 7",
+    "question": "Mục đích của Đảng vạch ra đường lối, quan điểm trong lĩnh vực an ninh chính trị, kinh tế, văn hóa tư tưởng nhằm:",
+    "options": [
+      "Bảo vệ an ninh, chính trị, kinh tế, văn hóa tư tưởng",
+      "Bảo vệ an ninh, chiến trường, kinh tế văn hóa tư tưởng",
+      "Bảo vệ đường lối, chính trị, kinh tế văn hóa xã hội",
+      "Bảo vệ an ninh, chính trị, kinh tế văn hóa Nhà nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo vệ an ninh, chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "7.2.3",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây không phải là quan điểm của Đảng về bảo vệ an ninh chính trị kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Gữi vững tư tưởng của Tôn Trung Sơn, Mao Trạch Đông và Kim Nhật Thành",
+      "Giữ vững nền tảng chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh",
+      "Giữ vững ổn định đất nước, ngăn ngừa, đẩy lùi âm mưu chống phá của các thế lực thù địch",
+      "Thường xuyên chăm lo, xây dựng Đảng, tăng cường sự lãnh đạo của Đảng với quân đội và công an"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Gữi vững tư tưởng của Tôn Trung Sơn, Mao Trạch Đông và Kim Nhật Thành."
+  },
+  {
+    "id": "7.2.4",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây không phải là đường lối, quan điểm của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Quán triệt và thực hiện triệt để mục tiêu bảo vệ Tổ quốc Việt Nam xã hội chủ theo định hướng tư bản.",
+      "Quan điểm và tư tưởng chỉ đạo của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Những giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quán triệt và thực hiện triệt để mục tiêu bảo vệ Tổ quốc Việt Nam xã hội chủ theo định hướng tư bản.."
+  },
+  {
+    "id": "7.2.5",
+    "lesson": "BÀI 7",
+    "question": "“Tăng cường công tác nhận thức về quốc phòng an ninh đối với đội ngũ cán bộ, công chức, viên chức và cho toàn dân”. Nội dung trên thuộc:",
+    "options": [
+      "Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư",
+      "Quan điểm tư tưởng chỉ đạo của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "7.2.6",
+    "lesson": "BÀI 7",
+    "question": "Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là:",
+    "options": [
+      "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức",
+      "Tăng cường các hoạt động “Diễn biến hòa bình” tại Việt Nam",
+      "Chú trọng về đường lối, quan điểm, nhiệm vụ về bảo vệ an ninh chính trị của tư sản",
+      "Tiếp tục đẩy mạnh truyền bá những giá trị văn hóa phẩm của tư bản vào Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức."
+  },
+  {
+    "id": "7.2.7",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào dưới đây không thuộc nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Đẩy mạnh công nghiệp hóa hiện đại hóa đất nước theo định hướng nền kinh tế thị trường tư bản",
+      "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức",
+      "Kết hợp phát triển kinh tế- xã hội tăng cường bảo vệ an ninh trên cơ sở phát huy mọi tiềm năng của đất nước",
+      "Tăng cường đổi mới nâng cao chất lượng công tác hội nhập quốc tế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đẩy mạnh công nghiệp hóa hiện đại hóa đất nước theo định hướng nền kinh tế thị trường tư bản."
+  },
+  {
+    "id": "7.2.8",
+    "lesson": "BÀI 7",
+    "question": "Tăng cường giáo dục nhận thức về quốc phòng an ninh, giữ vững an ninh nội địa, xây dựng cơ sở chính trị - xã hội. Nội dung trên thuộc:",
+    "options": [
+      "Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Giải pháp bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Biện pháp bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Quan điểm bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "7.2.9",
+    "lesson": "BÀI 7",
+    "question": "Tính tới hiện tại, Việt Nam đã bao nhiêu lần trúng cử Uỷ viên không thường trực Hội đồng Bảo an Liên hợp quốc?",
+    "options": [
+      "2 lần trúng cử Uỷ viên không thường trực",
+      "1 lần trúng cử Uỷ viên không thường trực",
+      "3 lần trúng cử Uỷ viên không thường trực",
+      "4 lần trúng cử Uỷ viên không thường trực"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 2 lần trúng cử Uỷ viên không thường trực."
+  },
+  {
+    "id": "7.2.10",
+    "lesson": "BÀI 7",
+    "question": "Điền vào ô trống. “Bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng là nhiệm vụ.......thường xuyên lâu dài, vừa khẩn trương cấp bách trong cục diện thế giới và nước ta ngày nay”.",
+    "options": [
+      "chiến lược",
+      "chiến dịch",
+      "chiến thuật",
+      "chiến đấu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: chiến lược."
+  },
+  {
+    "id": "7.2.11",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây Không phải là nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Thống nhất nhận thức trong toàn Đảng, toàn quân, toàn dân về tác bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng.",
+      "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Kết hợp phát triển kinh tế - xã hội với việc tăng cường bảo vệ an ninh chính trị, văn hóa tư tưởng trên cơ sở phát huy mọi tiềm năng của đất nước",
+      "Tăng cường đổi mới và nâng cao chất lượng công tác hội nhập quốc tế về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thống nhất nhận thức trong toàn Đảng, toàn quân, toàn dân về tác bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng.."
+  },
+  {
+    "id": "7.2.12",
+    "lesson": "BÀI 7",
+    "question": "Nội dung nào sau đây là nhiệm vụ bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng?",
+    "options": [
+      "Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Thống nhất nhận thức trong toàn Đảng, toàn quân, toàn dân về tác bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng.",
+      "Kết hợp phát triển kinh tế - xã hội với việc tăng cường bảo vệ an ninh chính trị, văn hóa tư tưởng trên cơ sở phát huy tiềm năng vốn đầu tư nước ngoài 100%",
+      "Tăng cường đổi mới và nâng cao chất lượng công tác hội nhập quốc tế về bảo vệ an ninh văn hóa xã hội, an ninh không gian mạng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiếp tục đổi mới và nâng cao chất lượng công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "7.2.13",
+    "lesson": "BÀI 7",
+    "question": "Nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là gì?",
+    "options": [
+      "Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Xây dựng nền kinh tế thị trường theo định hướng XHCN",
+      "Xây dựng dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh",
+      "Đẩy mạnh công cuộc hiện đại hóa và công nghiệp hóa đất nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+  },
+  {
+    "id": "7.2.14",
+    "lesson": "BÀI 7",
+    "question": "Tăng cường công tác giáo dục nhận thức về quốc phòng và an ninh đối với:",
+    "options": [
+      "Công chức, viên chức và người dân",
+      "Công chức, công nhân, nhân dân",
+      "Viên chức, giáo viên, y bác sĩ",
+      "Lực lượng vũ trang nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Công chức, viên chức và người dân."
+  },
+  {
+    "id": "7.2.15",
+    "lesson": "BÀI 7",
+    "question": "“Tăng cường công tác lãnh đạo các hoạt động báo chí, xuất bản phát thanh, truyền hình, nhất là công việc định hướng chính trị - tư tưởng”. Nội dung trên thuộc:",
+    "options": [
+      "Giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Nhiệm vụ cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Quan điểm cơ bản của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Quan điểm chỉ đạo của Đảng về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giải pháp cơ bản bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "8.1.1",
+    "lesson": "BÀI 8",
+    "question": "Chiến tranh nhân dân Việt Nam là quá trình sử dụng tiềm lực của đất nước, ........., nhằm đánh bại ý đồ xâm lược, lật đổ kẻ thù đối với cách mạng Việt Nam.",
+    "options": [
+      "nhất là tiềm lực quốc phòng an ninh",
+      "nhất là tiềm lực kinh tế, chính trị",
+      "nhất là tiềm lực kinh tế, văn hóa",
+      "nhất là tiềm lực tài chính vững chắc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: nhất là tiềm lực quốc phòng an ninh."
+  },
+  {
+    "id": "8.1.2",
+    "lesson": "BÀI 8",
+    "question": "Chiến tranh nhân dân Việt Nam là gì?",
+    "options": [
+      "Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quốc phòng an ninh, nhằm đánh bại ý đồ xâm lược, lật đổ của kẻ thù đối với cách mạng nước ta.",
+      "Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực khoa học công nghệ, nhằm đánh bại ý đồ xâm lược, lật đổ của kẻ thù đối với cách mạng nước ta.",
+      "Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực kinh tế, nhằm đánh bại ý đồ xâm lược, lật đổ của kẻ thù đối với cách mạng nước ta.",
+      "Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quân sự, nhằm đánh bại ý đồ xâm lược của chủ nghĩa đế quốc và các thế lực phản động."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quốc phòng an ninh, nhằm đánh bại ý đồ xâm lược, lật đổ của kẻ thù đối với cách mạng nước ta.."
+  },
+  {
+    "id": "8.1.3",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây thuộc khái niệm chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa?",
+    "options": [
+      "Quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quốc phòng an ninh",
+      "Quá trình sử dụng tiềm lực của đất nước nhất là tiềm lực kinh tế, chính trị",
+      "Quá trình sử dụng tiềm lực của đất nước , nhất là tiềm lực kinh tế, văn hóa",
+      "Quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực tài chính vững chắc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quốc phòng an ninh."
+  },
+  {
+    "id": "8.1.4",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây không thuộc khái niệm trong bài chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa?",
+    "options": [
+      "Nhất là tiềm lực kinh tế đánh bại mưu đồ xâm lược",
+      "Nhất là quá trình sử dụng tiềm lực của đất nước",
+      "Nhất là tiềm lực quốc phòng an ninh",
+      "Sử dụng tiềm lực của đất nước, đánh bại mưu đồ xâm lược"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhất là tiềm lực kinh tế đánh bại mưu đồ xâm lược."
+  },
+  {
+    "id": "8.1.5",
+    "lesson": "BÀI 8",
+    "question": "Mục đích của chiến tranh nhân dân Việt Nam là:",
+    "options": [
+      "Bảo vệ vững chắc độc lập, chủ quyền thống nhất, toàn vẹn lãnh thổ",
+      "Bảo vệ vững chắc độc lập, chủ quyền thống nhất và lợi ích giai cấp tư sản",
+      "Bảo vệ sự nghiệp chính trị và lợi ích giai cấp tư sản",
+      "Giữ vững con đường chúng ta đã chọn là đi lên tư bản chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo vệ vững chắc độc lập, chủ quyền thống nhất, toàn vẹn lãnh thổ."
+  },
+  {
+    "id": "8.1.6",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây không phải là mục đích của chiến tranh nhân dân Việt Nam?",
+    "options": [
+      "Bảo vệ Đảng dân chủ, nhà nước và chế độ chính trị kinh tế",
+      "Bảo vệ vững chắc độc lập, chủ quyền, toàn vẹn lãnh thổ",
+      "Bảo vệ Đảng và Nhà nước, nhân dân, chế độ xã hội chủ nghĩa",
+      "Bảo vệ sự nghiệp công nghiệp hóa , hiện đại hóa đất nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo vệ Đảng dân chủ, nhà nước và chế độ chính trị kinh tế."
+  },
+  {
+    "id": "8.1.7",
+    "lesson": "BÀI 8",
+    "question": "Đối tượng tác chiến của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là:",
+    "options": [
+      "Chủ nghĩa đế quốc và các thế lực thù địch",
+      "Chủ nghĩa thực dụng và lực lượng phản động nước ngoài",
+      "Chủ nghĩa hòa bình và lực lượng phản động trong nước",
+      "Chủ nghĩa đoàn kết và lực lượng phản động nước ngoài"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chủ nghĩa đế quốc và các thế lực thù địch."
+  },
+  {
+    "id": "8.1.8",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây không phải là đối tượng tác chiến của chiến tranh nhân dân bảo vệ Tổ quốc VIệt Nam xã hội chủ nghĩa?",
+    "options": [
+      "Tổ chức Đảng Cộng sản",
+      "Tổ chức đảng Việt Tân",
+      "Tổ chức các thế lực thù địch",
+      "Tổ chức lực lượng phản động"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tổ chức Đảng Cộng sản."
+  },
+  {
+    "id": "8.1.9",
+    "lesson": "BÀI 8",
+    "question": "Vấn đề nào sau đây không phải là nội dung cơ bản của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa?",
+    "options": [
+      "Nâng cao công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng",
+      "Bản chất, tính chất của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+      "Những yêu cầu và giải pháp để giành thắng lợi trong chiến tranh bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nâng cao công tác giáo dục, bồi dưỡng kiến thức về bảo vệ an ninh chính trị, kinh tế, văn hóa tư tưởng."
+  },
+  {
+    "id": "8.1.10",
+    "lesson": "BÀI 8",
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc có bao nhiêu đặc điểm?",
+    "options": [
+      "4 đặc điểm",
+      "3 đặc điểm",
+      "5 đặc điểm",
+      "6 đặc điểm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 4 đặc điểm."
+  },
+  {
+    "id": "8.1.11",
+    "lesson": "BÀI 8",
+    "question": "Quan điểm tiến hành chiến tranh nhân dân, toàn diện toàn dân đánh giặc lấy lực lượng vũ tranh nhân dân làm nòng cốt. Đây là quan điểm có tính chỉ đạo:",
+    "options": [
+      "Cơ bản xuyên suốt, thể hiện tính nhân dân sâu sắc.",
+      "Có vai trò quan trọng, mang tính chỉ đạo định hướng.",
+      "Cơ bản phổ biến cho toàn thể nhân dân thực hiện theo.",
+      "Có vai trò chỉ đạo nhân dân làm chủ đất nước."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cơ bản xuyên suốt, thể hiện tính nhân dân sâu sắc.."
+  },
+  {
+    "id": "8.1.12",
+    "lesson": "BÀI 8",
+    "question": "Nội dung “Tiến hành chiến tranh toàn diện, kết hợp chặt chẽ giữa đấu tranh quân sự, chính trị, ngoại giao, kinh tế, văn hóa, tư tưởng, lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định để giành thắng lợi trong chiến tranh”. Đây là:",
+    "options": [
+      "Quan điểm của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc.",
+      "Tính chất của chiến tranh nhân dân bảo vệ Tổ quốc",
+      "Đặc điểm của chiến tranh nhân dân bảo vệ Tổ quốc",
+      "Mục đích, đối tượng của chiến tranh nhân dân bảo vệ Tổ quốc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quan điểm của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc.."
+  },
+  {
+    "id": "8.2.1",
+    "lesson": "BÀI 8",
+    "question": "Trong các quan điểm sau, quan điểm nào là cơ bản, xuyên suốt của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": [
+      "Tiến hành chiến tranh nhân dân, toàn dân đánh giặc, lấy lực lượng vũ trang nhân dân làm nòng cốt. Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực.",
+      "Tiến hành chiến tranh toàn diện, kết hợp chặt chẽ giữa đấu tranh quân sự, chính trị, ngoại giao, kinh tế, văn hoá, tư tưởng. Lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định.",
+      "Chuẩn bị mọi mặt trong cả nước cũng như từng khu vực để đủ sức đánh lâu dài, ra sức thu hẹp không gian, rút ngắn thời gian chiến tranh, giành thắng lợi càng sớm càng tốt.",
+      "Kết hợp sức mạnh dân tộc và sức mạnh thời đại, phát huy tinh thần tự lực tự cường, tranh thủ sự giúp đỡ của quốc tế và sự đồng tình ủng hộ của nhân dân tiến bộ trên thế giới."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiến hành chiến tranh nhân dân, toàn dân đánh giặc, lấy lực lượng vũ trang nhân dân làm nòng cốt. Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực.."
+  },
+  {
+    "id": "8.2.2",
+    "lesson": "BÀI 8",
+    "question": "Thế trận chiến tranh nhân dân là gì?",
+    "options": [
+      "Là sự tổ chức, bố trí lực lượng để tiến hành chiến tranh và các hoạt động tác chiến.",
+      "Thế trận chiến tranh được bố trí rộng khắp trên cả nước nhưng có trọng tâm, trọng điểm.",
+      "Là việc tổ chức cơ động lực lượng trên các hướng để bảo toàn lực lượng trước các đòn tập kích bằng vũ khí công nghệ cao.",
+      "Là tổ chức sơ tán để giảm tổn thất về con người, đảm bảo nguồn nhân lực chiến đấu lâu dài."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là sự tổ chức, bố trí lực lượng để tiến hành chiến tranh và các hoạt động tác chiến.."
+  },
+  {
+    "id": "8.2.3",
+    "lesson": "BÀI 8",
+    "question": "Một trong những nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Tổ chức thế trận chiến tranh nhân dân",
+      "Tổ chức bố trí lực lượng chiến tranh nhân dân",
+      "Tổ chức thế trận toàn dân đánh giặc",
+      "Tổ chức thế trận phòng thủ của chiến tranh nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tổ chức thế trận chiến tranh nhân dân."
+  },
+  {
+    "id": "8.2.4",
+    "lesson": "BÀI 8",
+    "question": "Điểm yếu cơ bản của chủ nghĩa đế quốc trong cuộc chiến tranh xâm lược đối với Việt Nam:",
+    "options": [
+      "Là cuộc chiến tranh phi nghĩa, bị nhân loại phản đối",
+      "Biết được đặc điểm, địa hình, thời tiết của Việt Nam",
+      "Phát huy được hiệu quả của vũ khí trang bị",
+      "Kinh tế hạn chế, không được sự giúp đỡ đồng minh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là cuộc chiến tranh phi nghĩa, bị nhân loại phản đối."
+  },
+  {
+    "id": "8.2.5",
+    "lesson": "BÀI 8",
+    "question": "Điểm yếu cơ bản của chủ nghĩa đế quốc trong cuộc chiến tranh xâm lược Việt Nam là:",
+    "options": [
+      "Điều kiện địa hình, thời tiết khí hậu",
+      "Đánh nhanh thắng nhanh bằng quân sự",
+      "Tấn công ào ạt bất ngờ bằng hỏa lực mạnh",
+      "Khả năng huy động lực lượng quân sự"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Điều kiện địa hình, thời tiết khí hậu."
+  },
+  {
+    "id": "8.2.6",
+    "lesson": "BÀI 8",
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc, lấy lực lượng vũ trang ba thứ quân làm nòng cốt, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam. Đó là lực lượng nào dưới đây?",
+    "options": [
+      "Bộ đội chủ lực, bộ đội địa phương và dân quân tự vệ",
+      "Bộ đội chủ lực và dân quân tự vệ, bảo vệ dân phòng",
+      "Bộ độ địa phương và dân quân tự vệ, tổ an ninh dân phố",
+      "Bộ đội chủ lực, bộ đội biên phòng và lực lượng cảnh vệ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bộ đội chủ lực, bộ đội địa phương và dân quân tự vệ."
+  },
+  {
+    "id": "8.2.7",
+    "lesson": "BÀI 8",
+    "question": "Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa được thực hiện chủ yếu bằng bạo lực vũ trang. Đây là:",
+    "options": [
+      "Bản chất của chiến tranh nhân dân",
+      "Tính chất của chiến tranh nhân dân",
+      "Tính chất tự vệ cách mạng, chính nghĩa triệt để nhất",
+      "Tính chất toàn dân, toàn diện, hiện đại phát triển cao"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bản chất của chiến tranh nhân dân."
+  },
+  {
+    "id": "8.2.8",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây không phải lực lượng nòng cốt cho phong trào đánh giặc ở địa phương, trong chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": [
+      "Cảnh sát biển và tổ an ninh cơ sở",
+      "Bộ đội chủ lực và dân quân tự vệ",
+      "Bộ đội chủ lực và bộ đội địa phương",
+      "Bộ đội địa phương và dân quân tự vệ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cảnh sát biển và tổ an ninh cơ sở."
+  },
+  {
+    "id": "8.2.9",
+    "lesson": "BÀI 8",
+    "question": "“Lấy nhỏ thắng lớn, lấy ít địch nhiều để đánh thắng đội quân mạnh hơn ta gấp nhiều lần”. Nội dung trên là:",
+    "options": [
+      "Quan điểm của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc",
+      "Định hướng của Đảng và Nhà nước trong phát triển kinh tế - xã hội",
+      "Giải pháp cơ bản trong chiến tranh nhân dân bảo vệ Tổ quốc",
+      "Phương pháp trong chiến tranh nhân dân bảo vệ Tổ quốc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quan điểm của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc."
+  },
+  {
+    "id": "8.3.1",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào không phải là mục đích của chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ tư bản chủ nghĩa; Bảo vệ sự nghiệp đổi mới, công nghiệp hoá- hiện đại hoá đất nước.",
+      "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ, bảo vệ an ninh quốc gia, trật tự an toàn xã hội và nền văn hoá.",
+      "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa; bảo vệ sự nghiệp đổi mới, công nghiệp hoá- hiện đại hoá đất nước.",
+      "Bảo vệ lợi ích quốc gia và dân tộc; bảo vệ an ninh chính trị, trật tự an toan xã hội và nền văn hóa, giữ vững ổn định chính trị và môi trường hoà bình, phát triển đất nước theo định hướng xã hội chủ nghĩa."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo vệ Đảng, Nhà nước, nhân dân và chế độ tư bản chủ nghĩa; Bảo vệ sự nghiệp đổi mới, công nghiệp hoá- hiện đại hoá đất nước.."
+  },
+  {
+    "id": "8.3.2",
+    "lesson": "BÀI 8",
+    "question": "Mục đích tác chiến của chủ nghĩa đế quốc khi tiến hành xâm lược nước ta là:",
+    "options": [
+      "Xóa bỏ chủ nghĩa xã hội ở nước ta và can thiệp khi có thời cơ.",
+      "Xây dựng chủ nghĩa xã hội ở nước ta và can thiệp khi có thời cơ.",
+      "Nâng cao vai trò của Đảng cộng sản Việt Nam khi có thời cơ.",
+      "Củng cố tổ chức chính trị cho chủ nghĩa xã hội khi có thời cơ."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xóa bỏ chủ nghĩa xã hội ở nước ta và can thiệp khi có thời cơ.."
+  },
+  {
+    "id": "8.3.3",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào sau đây không phải là âm mưu, thủ đoạn chủ yếu của kẻ thù khi tiến hành chiến tranh xâm lược nước ta?",
+    "options": [
+      "Vận động nhân dân tham gia vào cuộc chiến, chuẩn bị đánh chắc, thắng chắc",
+      "Thực hiện đánh nhanh thắng nhanh, tiến công ào ạt",
+      "Tiến công bằng quân sự và kết hợp bao loạn lật đổ",
+      "Tiến công bằng quân sự, thực hiện biện pháp phi quân sự, phi vũ trang để lừa bịp và dùng hỏa lực bất ngờ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vận động nhân dân tham gia vào cuộc chiến, chuẩn bị đánh chắc, thắng chắc."
+  },
+  {
+    "id": "8.3.4",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào sau đây không phải là điểm mạnh của chủ nghĩa đế quốc khi tiến hành chiến tranh xâm lược Việt Nam?",
+    "options": [
+      "Huy động được sức mạnh của quần chúng nhân dân và là cuộc chiến tranh chính nghĩa",
+      "Tiềm lực khoa học công nghệ cao phát triển, tiềm lực kinh tế và sức mạnh quân sự phát triển",
+      "Tiềm lực kinh tế và sức mạnh quân sự phát triển",
+      "Huy động được sức mạnh quân sự khi thực hiện chiến tranh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Huy động được sức mạnh của quần chúng nhân dân và là cuộc chiến tranh chính nghĩa."
+  },
+  {
+    "id": "8.3.5",
+    "lesson": "BÀI 8",
+    "question": "Cuộc chiến tranh chính nghĩa là cuộc chiến tranh:",
+    "options": [
+      "Chống giặc ngoại xâm bảo vệ đất nước và không có mưu đồ xâm lược nước khác",
+      "Chống giặc ngoại xâm bảo vệ đất nước và thực hiện mưu đồ đi xâm lược nước khác",
+      "Sử dụng sức mạnh quân sự, chính trị, thiết lập chính quyền mới để cai trị đất nước khác.",
+      "Sử dụng sức mạnh kinh tế, chinh trị thống trị một đất nước xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chống giặc ngoại xâm bảo vệ đất nước và không có mưu đồ xâm lược nước khác."
+  },
+  {
+    "id": "8.3.6",
+    "lesson": "BÀI 8",
+    "question": "Tính chất của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Hiện đại, vân dụng khoa học công nghệ triệt để",
+      "Là cuộc chiến tranh nhân dân toàn dân, toàn diện",
+      "Là cuộc chiến tranh chưa vận dụng khoa học triệt để",
+      "Là cuộc chiến tranh chính nghĩa, tự vệ cách mạng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hiện đại, vân dụng khoa học công nghệ triệt để."
+  },
+  {
+    "id": "8.3.7",
+    "lesson": "BÀI 8",
+    "question": "Nội dung nào dưới đây không phải là tính chất của chiến tranh nhân dân Việt Nam?",
+    "options": [
+      "Phát huy sức mạnh vũ trang và giai cấp",
+      "Thực hiện toàn dân toàn diện, toàn quân",
+      "Tự vệ cách mạng và tính toàn diện, toàn quân",
+      "Bảo vệ chủ quyền, bảo vệ độc lập toàn vẹn lãnh thổ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phát huy sức mạnh vũ trang và giai cấp."
+  },
+  {
+    "id": "8.3.8",
+    "lesson": "BÀI 8",
+    "question": "Đảng lãnh đạo với vai trò huy động tiềm lực của đất nước, tiềm lực quốc phòng an ninh thực hiện bạo lực bằng chiến tranh bảo vệ đất nước chống giặc ngoại xâm. Đây là cuộc chiến tranh có tính chất:",
+    "options": [
+      "Chính nghĩa, tự vệ cách mạng",
+      "Phi nghĩa, không chính đáng",
+      "Vừa chính nghĩa, vừa phi nghĩa",
+      "Phi nghĩa do tự vệ cách mạng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chính nghĩa, tự vệ cách mạng."
+  },
+  {
+    "id": "8.3.9",
+    "lesson": "BÀI 8",
+    "question": "Vị trí của lực lượng vũ trang nhân dân trong chiến tranh nhân dân bảo vệ Tổ quốc là:",
+    "options": [
+      "Là lực lượng nòng cốt cho toàn dân đánh giặc",
+      "Là trách nhiệm của lực lượng vũ trang nhân",
+      "Là nghĩa vụ của lực lượng vũ trang nhân dân",
+      "Là lực lượng xung kích cho toàn dân đánh giặc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là lực lượng nòng cốt cho toàn dân đánh giặc."
+  },
+  {
+    "id": "9.1.1",
+    "lesson": "BÀI 9",
+    "question": "Lực lượng vũ trang nhân dân Việt Nam bao gồm:",
+    "options": [
+      "Các tổ chức vũ trang và bán vũ trang",
+      "Các tổ chức vũ trang chính quy",
+      "Lực lượng quân đội và công an nhân dân",
+      "Lực lượng hải quân nhân dân Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các tổ chức vũ trang và bán vũ trang."
+  },
+  {
+    "id": "9.1.2",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây thuộc khái niệm của lực lượng vũ trang nhân dân Việt Nam?",
+    "options": [
+      "Là các tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo",
+      "Là các tổ chức chính trị và tổ chức kinh tế của Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo",
+      "Là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác",
+      "Là lực lượng bảo vệ Đảng, bảo vệ chính quyền, bảo vệ tài sản của nhân dân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là các tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo."
+  },
+  {
+    "id": "9.1.3",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây không thuộc khái niệm của lực lượng vũ trang nhân dân Việt Nam?",
+    "options": [
+      "Là các tổ chức chính trị và tổ chức kinh tế của Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo",
+      "Là các tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo",
+      "Là lực lượng nòng cốt của quốc phòng toàn dân và chiến tranh nhân dân bảo vệ Tổ quốc xã hội chủ nghĩa",
+      "Là lực lượng bảo vệ chế độ xã hội chủ nghĩa và những thành quả cách mạng, cùng toàn dân xây dựng đất nước"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là các tổ chức chính trị và tổ chức kinh tế của Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo."
+  },
+  {
+    "id": "9.1.4",
+    "lesson": "BÀI 9",
+    "question": "Đảng xác định nhiệm vụ chiến lược của cách mạng nước ta hiện nay là:",
+    "options": [
+      "Xây dựng và bảo vệ tổ quốc",
+      "Tập trung phát triển kinh tế",
+      "Tập trung phát triển ngoại giao",
+      "Đoàn kết các dân tộc và tôn giáo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng và bảo vệ tổ quốc."
+  },
+  {
+    "id": "9.1.5",
+    "lesson": "BÀI 9",
+    "question": "Quan điểm của Đảng khi xây dựng lực lượng vũ trang nhân dân Việt Nam cần lấy:",
+    "options": [
+      "Chính trị làm cơ sở",
+      "Xã hội làm cơ sở",
+      "Văn hóa làm cơ sở",
+      "Kinh tế làm cơ sở"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chính trị làm cơ sở."
+  },
+  {
+    "id": "9.1.6",
+    "lesson": "BÀI 9",
+    "question": "Trong lĩnh vực quốc phòng và an ninh mục tiêu của chủ nghĩa đế quốc chống phá cách mạng Việt Nam là:",
+    "options": [
+      "“Vô hiệu hóa, phi chính trị hóa lực lượng vũ trang nhân dân”",
+      "xây dựng lượng vũ tranh nhân dân vì chiến lược “Diễn biến hòa bình”",
+      "xây dựng lực lượng vũ tranh nhân dân trong điều kiện quốc tế thay đổi",
+      "xây dựng lực lượng vũ tranh nhân dân Việt Nam do Đảng cộng sản Việt Nam lãnh đạo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Vô hiệu hóa, phi chính trị hóa lực lượng vũ trang nhân dân”."
+  },
+  {
+    "id": "9.1.7",
+    "lesson": "BÀI 9",
+    "question": "Nguyên tắc cơ bản nhất khi xây dựng lực lượng vũ trang nhân dân Việt Nam là:",
+    "options": [
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng",
+      "Tự lực tự cường xây dựng lực lượng vũ trang",
+      "Chú trọng về số lượng và đảm bảo về mặt chất lượng",
+      "Đảm bảo lực lượng trong tư thế sẵn sàng chiến đấu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giữ vững và tăng cường sự lãnh đạo của Đảng."
+  },
+  {
+    "id": "9.1.8",
+    "lesson": "BÀI 9",
+    "question": "Quan điểm, nguyên tắc cơ bản nhất trong xây dựng lực lượng vũ trang nhân dân Việt Nam là:",
+    "options": [
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam đối với lực lượng vũ trang nhân dân",
+      "Tự lực tự cường xây dựng lực lượng vũ trang nhân dân ngày càng chính quy và tinh nhuệ hơn nữa",
+      "Xây dựng lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở",
+      "Bảo đảm lực lượng vũ trang nhân dân luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam đối với lực lượng vũ trang nhân dân."
+  },
+  {
+    "id": "9.1.9",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây không thuộc đặc điểm liên quan đến xây dựng lực lượng vũ trang nhân dân?",
+    "options": [
+      "Thống nhất trong quá trình điều tra, truy tố, xét xử tội phạm, giáo dục cải tạo phạm nhân",
+      "Thực hiện mục tiêu “Dân giàu, nước mạnh, xã hội dân chủ, công bằng, văn minh”",
+      "Cần nắm chắc âm mưu, thủ đoạn chiến lược “Diễn biến hòa bình” của địch",
+      "Giáo dục và đào tạo, khoa học và công nghệ, văn hóa, xã hội, y tế có bước phát triển"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thống nhất trong quá trình điều tra, truy tố, xét xử tội phạm, giáo dục cải tạo phạm nhân."
+  },
+  {
+    "id": "9.1.10",
+    "lesson": "BÀI 9",
+    "question": "Xây dựng quân đội cách mạng là vấn đề ...........hàng đầu trong nhiệm vụ xây dựng quân đội và công an của Đảng ta hiện nay.",
+    "options": [
+      "Cơ bản",
+      "Tiên quyết",
+      "Quan trọng",
+      "Nhất quán"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cơ bản."
+  },
+  {
+    "id": "9.1.11",
+    "lesson": "BÀI 9",
+    "question": "Xây dựng quân đội, công an chính quy thể hiện:",
+    "options": [
+      "Sự thống nhất về mọi mặt",
+      "Sự thống nhất về một mặt",
+      "Sự thống nhất về con người",
+      "Sự thống nhất về tổ chức"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Sự thống nhất về mọi mặt."
+  },
+  {
+    "id": "9.1.12",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây không thuộc biện pháp xây dựng lực lượng vũ trang nhân dân?",
+    "options": [
+      "Xây dựng đội ngũ các bộ lực lượng vũ trang nhân dân có bản chất dân chủ tự do",
+      "Nâng cao chất lượng huấn luyện quân sự, giáo dục chính trị, xây dựng và phát triển khoa học quân sự, khoa học công an",
+      "Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật cho lực lượng vũ trang nhân dân",
+      "Xây dựng đội ngũ các bộ lực lượng vũ trang nhân dân có phẩm chất, năng lực tốt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng đội ngũ các bộ lực lượng vũ trang nhân dân có bản chất dân chủ tự do."
+  },
+  {
+    "id": "9.2.1",
+    "lesson": "BÀI 9",
+    "question": "Ngày truyền thống của Công an nhân dân Việt Nam hàng năm được quy định là ngày nào?",
+    "options": [
+      "Ngày 19 tháng 8",
+      "Ngày 19 tháng 12",
+      "Ngày 19 tháng 5",
+      "Ngày 19 tháng 8"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ngày 19 tháng 8."
+  },
+  {
+    "id": "9.2.2",
+    "lesson": "BÀI 9",
+    "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam hàng năm được quy định là ngày nào?",
+    "options": [
+      "Ngày 22 tháng 12",
+      "Ngày 22 tháng 11",
+      "Ngày 22 tháng 10",
+      "Ngày 19 tháng 5"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ngày 22 tháng 12."
+  },
+  {
+    "id": "9.2.3",
+    "lesson": "BÀI 9",
+    "question": "Cơ quan nào “Độc tôn duy nhất” nắm quyền lãnh đạo lực lượng vũ trang nhân dân Việt Nam?",
+    "options": [
+      "Đảng Cộng sản Việt Nam",
+      "Nhà nước Việt Nam",
+      "Chính phủ Việt Nam",
+      "Mặt trận Tổ quốc Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": "9.2.4",
+    "lesson": "BÀI 9",
+    "question": "Sự lãnh đạo của Đảng đối với lực lượng vũ trang nhân dân Việt Nam sẽ quyết định đến:",
+    "options": [
+      "Bản chất cách mạng, mục tiêu, phương hướng chiến đấu, đường lối tổ chức và cơ chế hoạt động của lực lượng vũ trang nhân dân",
+      "Số lượng và chất lượng nhằm đảm bảo lực lượng luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi",
+      "Việc lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở",
+      "Khả năng tác chiến cũng như phối hợp tác chiến trên mọi vùng lãnh thổ của tổ quốc."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bản chất cách mạng, mục tiêu, phương hướng chiến đấu, đường lối tổ chức và cơ chế hoạt động của lực lượng vũ trang nhân dân."
+  },
+  {
+    "id": "9.2.5",
+    "lesson": "BÀI 9",
+    "question": "Đảng Cộng sản Việt Nam lãnh đạo lực lượng vũ trang nhân dân theo nguyên tắc:",
+    "options": [
+      "Tuyệt đối, trực tiếp về mọi mặt",
+      "Tuyệt đối, trực tiếp về một mặt",
+      "Tuyệt đối, trực tiếp về tinh thần",
+      "Tuyệt đối, trực tiếp về vật chất"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tuyệt đối, trực tiếp về mọi mặt."
+  },
+  {
+    "id": "9.2.6",
+    "lesson": "BÀI 9",
+    "question": "Đâu là không phải là phương hướng xây dựng lực lượng vũ trang nhân dân trong giai đoạn mới?",
+    "options": [
+      "Xây dựng lực lượng vũ trang trung lập",
+      "Xây dựng lực lượng vũ trang cách mạng",
+      "Xây dựng lực lượng vũ trang chính quy",
+      "Xây dựng lực luongj vũ tranh tinh nhuệ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng lực lượng vũ trang trung lập."
+  },
+  {
+    "id": "9.2.7",
+    "lesson": "BÀI 9",
+    "question": "Theo quan điểm của Đảng, xây dựng quân đội, công an cách mạng là phải:",
+    "options": [
+      "Xây dựng bản chất giai cấp công nhân cho quân đội, công an",
+      "Xây dựng bản chất giai cấp nông dân cho quân đội, công an",
+      "Xây dựng bản chất giai cấp nhân dân lao động cho quân đội, công an",
+      "Xây dựng bản chất giai cấp tư nhân cho quân đội, công an"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng bản chất giai cấp công nhân cho quân đội, công an."
+  },
+  {
+    "id": "9.2.8",
+    "lesson": "BÀI 9",
+    "question": "Xây dựng quân đội, công an tinh nhuệ cần tập trung vào những nội dung nào?",
+    "options": [
+      "Chính trị, tổ chức, kỹ chiến thuật",
+      "Con người, phương tiện",
+      "Con người, cơ sở vật chất",
+      "Kiến thức, đạo đức, kỹ năng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chính trị, tổ chức, kỹ chiến thuật."
+  },
+  {
+    "id": "9.2.9",
+    "lesson": "BÀI 9",
+    "question": "Yếu tố nào sau đây được xem là vấn đề cơ bản hàng đầu trong nhiệm vụ xây dựng quân đội và công an của Đảng ta hiện nay?",
+    "options": [
+      "Xây dựng quân đội, công an cách mạng",
+      "Xây dựng quân đội, công an chính quy",
+      "Xây dựng quân đội, công an tinh nhuệ",
+      "Xây dựng quân đội, công an hiện đại"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng quân đội, công an cách mạng."
+  },
+  {
+    "id": "9.3.1",
+    "lesson": "BÀI 9",
+    "question": "Khi xét về tổ chức, lực lượng vũ trang nhân dân Việt Nam gồm có:",
+    "options": [
+      "Quân đội nhân dân, công an nhân dân, dân quân tự vệ",
+      "Quân đội nhân dân, an ninh nhân dân, cảnh sát nhân dân",
+      "Bộ đội địa phương, bộ đội chủ lực, bộ đội biên phòng",
+      "Quân đội nhân dân, công an nhân dân, hải quân"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Quân đội nhân dân, công an nhân dân, dân quân tự vệ."
+  },
+  {
+    "id": "9.3.2",
+    "lesson": "BÀI 9",
+    "question": "Tiền thân của quân đội nhân dân Việt Nam được thành lập ngày 22 tháng 12 năm 1944 có tên gọi là gì?",
+    "options": [
+      "Đội Việt Nam Tuyên truyền Giải phóng quân",
+      "Đội quân Giải phóng miền Nam Việt Nam",
+      "Quân đội nhân dân Việt Nam",
+      "Quân đội quốc gia Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đội Việt Nam Tuyên truyền Giải phóng quân."
+  },
+  {
+    "id": "9.3.3",
+    "lesson": "BÀI 9",
+    "question": "Lực lượng vũ trang nhân dân Việt Nam do tổ chức nào lãnh đạo?",
+    "options": [
+      "Đảng Cộng sản Việt Nam",
+      "Nhà nước Việt Nam",
+      "Chính phủ Việt Nam",
+      "Mặt trận Tổ quốc Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": "9.3.4",
+    "lesson": "BÀI 9",
+    "question": "Lực lượng vũ trang nhân dân Việt Nam do cơ quan nào quản lý?",
+    "options": [
+      "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "Đảng Cộng sản Việt Nam",
+      "Cơ quan quân sự tại các địa phương và tổ chức chính trị",
+      "Mặt trận Tổ quốc Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+  },
+  {
+    "id": "9.3.5",
+    "lesson": "BÀI 9",
+    "question": "Để lãnh đạo mọi hoạt động của lực lượng vũ trang nhân dân Việt Nam thì Đảng cần có hệ thống tổ chức từ:",
+    "options": [
+      "Trung ương đến cơ sở",
+      "Thành phố đến cơ sở",
+      "Cấp tỉnh đến cấp xã",
+      "Cấp thôn đến toàn quốc."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Trung ương đến cơ sở."
+  },
+  {
+    "id": "9.3.6",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây không phải là quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới?",
+    "options": [
+      "Thường xuyên giáo dục, quán triệt sâu rộng các quan điểm, chủ trương chính sách của Đảng, Nhà nước về công tác dân quân tự vệ",
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam đối với các lực lượng vũ trang nhân dân",
+      "Xây dựng lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy xây dụng chính trị làm cơ sở",
+      "Bảo đảm lực lượng vũ trang nhân dân luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thường xuyên giáo dục, quán triệt sâu rộng các quan điểm, chủ trương chính sách của Đảng, Nhà nước về công tác dân quân tự vệ."
+  },
+  {
+    "id": "9.3.7",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây không phải là nội dung xây dựng lực lượng vũ trang cách mạng?",
+    "options": [
+      "Thống nhất về quan điểm tư tưởng quân sự, nghệ thuật quân sự",
+      "Chấp hành mọi đường lối của Đảng, chính sách của Nhà nước",
+      "Trước diễn biến tình hình phức tập, cần phải phân biệt đúng sai",
+      "Có tinh thần đoàn kết quân dân, đoàn kết nội bộ đoàn kết quốc tế tốt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thống nhất về quan điểm tư tưởng quân sự, nghệ thuật quân sự."
+  },
+  {
+    "id": "9.3.8",
+    "lesson": "BÀI 9",
+    "question": "Nội dung nào dưới đây là nội dung xây dựng lực lượng vũ trang tinh nhuệ?",
+    "options": [
+      "Tổ chức gọn nhẹ nhưng vẫn đáp ứng được yêu cầu nhiệm vụ được giao",
+      "Thôn tổ chức, tiểu đội, trung đội dân quân tại chỗ",
+      "Tổ chức thành tiểu đội tự vệ trong doanh nghiệp",
+      "Tổ chức quân nhân dự bị, phương tiện kỹ thuật thành đơn vị dự bị động viên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tổ chức gọn nhẹ nhưng vẫn đáp ứng được yêu cầu nhiệm vụ được giao."
+  },
+  {
+    "id": "9.3.9",
+    "lesson": "BÀI 9",
+    "question": "Phương hướng chung khi xây dựng quân đội, công an nhân dân Việt Nam hiện nay là:",
+    "options": [
+      "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+      "Vững mạnh, rộng khắp, coi trọng chất lượng là chính",
+      "Luôn đảm bảo đủ về số lượng và chất lượng cao",
+      "Xây dựng phải có trọng tâm trọng điểm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại."
+  },
+  {
+    "id": "10.1.1",
+    "lesson": "BÀI 10",
+    "question": "Trong hoạt động kinh tế - xã hội với củng cố quốc phòng và an ninh ai đã khẳng định “Không có gì phụ thuộc vào kinh tế tiên quyết hơn là chính quân đội và hạm đội”?",
+    "options": [
+      "Ph. Ăngghen",
+      "V.I.Lênin",
+      "Các Mác",
+      "Hồ Chí Minh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ph. Ăngghen."
+  },
+  {
+    "id": "10.1.2",
+    "lesson": "BÀI 10",
+    "question": "Hoạt động quốc phòng và an ninh còn có thể dẫn đến các mặt tiêu cưc nào?",
+    "options": [
+      "Hủy hoại môi trường sinh thái, để lại hậu quả nặng nền cho kinh tế nhất là khi chiến tranh xảy ra.",
+      "tác động tích cực đến kinh tế, bảo vệ môi trường và tạo điều kiện thúc đẩy kinh tế phát triên khi chiến tranh xảy ra.",
+      "Bảo vệ chế độ kinh tế, hủy hoại bản chất của quốc phòng và an ninh khi chiến tranh xảy ra.",
+      "Mở rộng quan hệ kinh tế đối ngoại, tạo ra thị trường tiêu thụ sản phẩm của kinh tế khi chiến tranh xảy ra."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hủy hoại môi trường sinh thái, để lại hậu quả nặng nền cho kinh tế nhất là khi chiến tranh xảy ra.."
+  },
+  {
+    "id": "10.1.3",
+    "lesson": "BÀI 10",
+    "question": "Điền vào ô trống. “Quốc phòng là công việc....... của một quốc gia”.",
+    "options": [
+      "giữ nước",
+      "bảo vệ",
+      "anh ninh",
+      "quan trọng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: giữ nước."
+  },
+  {
+    "id": "10.1.4",
+    "lesson": "BÀI 10",
+    "question": "Điền vào ô trống. “Bảo vệ an ninh là nhiệm vụ của toàn dân và hệ thống chính trị do......... làm nòng cốt”.",
+    "options": [
+      "lực lượng an ninh",
+      "lực lượng quốc phòng",
+      "lực lượng vũ trang",
+      "lực lượng công an"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lực lượng an ninh."
+  },
+  {
+    "id": "10.1.5",
+    "lesson": "BÀI 10",
+    "question": "Điền vào ô trống. “Kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh là hoạt động ......,....của Nhà nước và nhân dân”.",
+    "options": [
+      "tích cực, chủ động",
+      "thường xuyên, tất yếu",
+      "tích cực, sáng tạo",
+      "chủ động, thường xuyên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: tích cực, chủ động."
+  },
+  {
+    "id": "10.1.6",
+    "lesson": "BÀI 10",
+    "question": "Yếu tố quyết định đến sức mạnh quốc phòng và an ninh là:",
+    "options": [
+      "Kinh tế",
+      "Chính trị",
+      "Ngoại giao",
+      "Văn hóa xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Kinh tế."
+  },
+  {
+    "id": "10.1.7",
+    "lesson": "BÀI 10",
+    "question": "Điền vào ô trống. “Kết hợp đầu tư xây dựng cơ sở hạ tầng kinh tế - xã hội với xây dựng các công trình quốc phòng, quân sự, thiết bị chiến trường phải đảm bảo tính.......... trong mỗi công trình được xây dựng”?",
+    "options": [
+      "lưỡng dụng",
+      "thiết thực",
+      "khả thi",
+      "hiệu quả"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lưỡng dụng."
+  },
+  {
+    "id": "10.1.8",
+    "lesson": "BÀI 10",
+    "question": "Kinh tế - xã hội và quốc phòng và an ninh có mối quan hệ với nhau như thế nào?",
+    "options": [
+      "Tác động qua lại lẫn nhau",
+      "Tác động một chiều",
+      "Tác động ngược nhau",
+      "Tác động tiêu cực trong xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tác động qua lại lẫn nhau."
+  },
+  {
+    "id": "10.1.9",
+    "lesson": "BÀI 10",
+    "question": "Hoạt động quốc phòng và an ninh tác động tích cực trở lại nền kinh tế ở khâu nào?",
+    "options": [
+      "Bảo vệ và tạo điều kiện thúc đẩy kinh tế phát triển",
+      "Hủy hoại nền kinh tế không phát triển",
+      "Phá vỡ nền kinh tế đang phát triển",
+      "Bảo vệ và tạo điều kiện cho con người chậm phát triển"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bảo vệ và tạo điều kiện thúc đẩy kinh tế phát triển."
+  },
+  {
+    "id": "10.1.10",
+    "lesson": "BÀI 10",
+    "question": "Hoạt động sản xuất và tái sản xuất ra của cải vật chất cho xã hội phục vụ đời sống con người. Đây là:",
+    "options": [
+      "Hoạt động kinh tế",
+      "Hoạt động quốc phòng",
+      "Hoạt động kinh tế với quốc phòng",
+      "Hoạt động an ninh với chính trị"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hoạt động kinh tế."
+  },
+  {
+    "id": "10.1.11",
+    "lesson": "BÀI 10",
+    "question": "Trong cuộc kháng chiến chống thực dân Pháp xâm lược (1946 – 1954) Đảng ta đề ra chủ trương:",
+    "options": [
+      "“Vừa kháng chiến, vừa kiến quốc”",
+      "“Ngụ binh ư nông”",
+      "“Cả nước đồng lòng, toàn dân đánh giặc”",
+      "“Quốc phú binh cường”"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: “Vừa kháng chiến, vừa kiến quốc”."
+  },
+  {
+    "id": "10.1.12",
+    "lesson": "BÀI 10",
+    "question": "“Phục binh sẵn, phá thế giặc từ xa”, phát triển nghề thủ công để vừa sản xuất ra các công cụ sản xuất, vừa sản xuất ra vũ khí phương tiện phục vụ cho toàn dân đánh giặc. Là cơ sở thực tiễn của sự kết hợp kinh tế - xã hội với tăng cường củng cố quốc phòng trong thời kỳ nào?",
+    "options": [
+      "Phong kiến",
+      "Kháng chiến chông Pháp",
+      "Kháng chiến chống Mỹ",
+      "Xây dựng xã hội chủ nghĩa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phong kiến."
+  },
+  {
+    "id": "10.2.1",
+    "lesson": "BÀI 10",
+    "question": "Hoạt động quốc phòng và an ninh tiêu tốn đáng kể những nguồn lực nào sau đây?",
+    "options": [
+      "Nhân lực, vật lực và tài lực của xã hội",
+      "Năng lượng tái tạo của tự nhiên",
+      "Năng lượng mới của con người và xã hội",
+      "Năng lượng mặt trời của tự nhiên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nhân lực, vật lực và tài lực của xã hội."
+  },
+  {
+    "id": "10.2.2",
+    "lesson": "BÀI 10",
+    "question": "Kinh tế quyết định yếu tố nào của quốc phòng an ninh?",
+    "options": [
+      "Nguồn gốc ra đời và bản chất của quốc phòng và an ninh",
+      "Nguồn gốc ra đời xã hội và tính chất của quốc phòng và an ninh",
+      "Nguồn gốc ra đời kinh tế và bản chất kinh tế của quốc phòng và an ninh",
+      "Ngồn gốc ra đời văn hóa nghệ thuật và bản chất của quốc phòng và an ninh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Nguồn gốc ra đời và bản chất của quốc phòng và an ninh."
+  },
+  {
+    "id": "10.2.3",
+    "lesson": "BÀI 10",
+    "question": "Quốc phòng và an ninh có tác động tích cực đến kinh tế?",
+    "options": [
+      "Kích thích kinh tế phát triển",
+      "Không kích thích kinh tế phát triển",
+      "Ảnh hưởng tiêu cực đến kinh tế",
+      "Phản ánh sự phát triển kinh tế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Kích thích kinh tế phát triển."
+  },
+  {
+    "id": "10.2.4",
+    "lesson": "BÀI 10",
+    "question": "“Công tác đào tạo bồi dưỡng, nguồn nhân lực đáp ứng nhu cầu phát triển kinh tế văn hóa phục vụ quốc phòng an ninh”. Nội dung trên được kết hợp trong các ngành, các lĩnh vực kinh tế chủ yếu nào?",
+    "options": [
+      "Giáo dục, lao động – thương binh xã hội",
+      "Đầu tư, quản lý kinh tế",
+      "Đầu tư, phát triển khoa học công nghệ",
+      "Đầu tư, phát triển y tế"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Giáo dục, lao động – thương binh xã hội."
+  },
+  {
+    "id": "10.2.5",
+    "lesson": "BÀI 10",
+    "question": "Kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng – an ninh trong chiến lược phát triển kinh tế - xã hội được thể hiện ở một số nội dung cơ bản nào sau đây?",
+    "options": [
+      "Hoạch định mục tiêu, huy động nguồn lực, lựa chọn giải pháp chiến lược",
+      "Lập kế hoạch, lựa chọn nguồn nhân lực, đưa ra mưu kế chiến lược",
+      "Xác định nguồn nhân lực, đặt mục tiêu cho nguồn lực, đề cao giải pháp chiến lược",
+      "Xác định giải pháp chiến lược, lựa chọn nguồn lực, xây dựng kế hoạch chiến thuật"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hoạch định mục tiêu, huy động nguồn lực, lựa chọn giải pháp chiến lược."
+  },
+  {
+    "id": "10.2.6",
+    "lesson": "BÀI 10",
+    "question": "Trong lĩnh vực khoa học và công nghệ, những ngành nào sau đây được coi là trọng tâm trong việc kết hợp phát triển kinh tế - xã hội với quốc phòng và an ninh?",
+    "options": [
+      "Phát triển tiềm năng khoa học, sở hữu trí tuệ, nguyên tử, hạt nhân..",
+      "Phát triển tài nguyên rừng, khai thác khoáng sản, ứng phó với khí hậu...",
+      "Phát triển nguồn nhân lực, kinh tế văn hóa xã hội và sẵn sàng phục vụ quốc phòng và an ninh",
+      "Phát triển cơ chế chính sách, quản lý kinh tế, quản lý đầu tư của nước ngoài vào Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phát triển tiềm năng khoa học, sở hữu trí tuệ, nguyên tử, hạt nhân..."
+  },
+  {
+    "id": "10.2.7",
+    "lesson": "BÀI 10",
+    "question": "Kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng và an ninh trong hoạt động đối ngoại phải quán triệt và thực hiện tốt các nguyên tắc nào sau đây?",
+    "options": [
+      "Bình đẳng cùng có lợi, tôn trọng độc lập chủ quyền không can thiệp nội bộ của nhau",
+      "Chon lựa đối tác không làm hạn chế sự chống phá của các thế lực thù địch",
+      "Bình đẳng cùng có lợi, tôn trọng độc lập chủ quyền và được quyền can thiệp nội bộ của nhau",
+      "Lựa chọn đối tác không có ưu thế cạnh tranh với các thế lực bên ngoài"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Bình đẳng cùng có lợi, tôn trọng độc lập chủ quyền không can thiệp nội bộ của nhau."
+  },
+  {
+    "id": "10.2.8",
+    "lesson": "BÀI 10",
+    "question": "Kết hợp phát triển kinh tế - xã hội với tăng cường, củng cố quốc phòng và an ninh trong hoạt động đối ngoại cần phát huy vai trò của cán bộ nhân viên đại sứ quán nước ta ở nước ngoài trong việc quảng bá những vấn nào sau đây?",
+    "options": [
+      "Hàng hóa, truyền thống văn hóa Việt Nam",
+      "Đường lối đối ngoại của Việt Nam",
+      "Đường lối quân sự của Việt nam",
+      "Hoạch định chính sách đối ngoại của Việt Nam"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hàng hóa, truyền thống văn hóa Việt Nam."
+  },
+  {
+    "id": "10.2.9",
+    "lesson": "BÀI 10",
+    "question": "Tăng cường sự lãnh đạo của Đảng trong thực hiện kêt hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng an ninh thì vai trò của các cấp Ủy như thế nào?",
+    "options": [
+      "Thường xuyên nắm vững chủ trương đường lối của Đảng kịp thời làm tham mưu...",
+      "Đề ra những quyết định, lãnh đạo chủ trương đường lối của Đảng củng cố quốc phong – an ninh",
+      "Xây dựng cở chế quản lý nhà nước của chính quyền địa phương nhưng không tăng cường củng cố quốc phong – an ninh",
+      "Xây dựng cở chế, bộ máy nhà nước quản lý chính quyền địa phương tăng cường củng cố quốc phong – an ninh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thường xuyên nắm vững chủ trương đường lối của Đảng kịp thời làm tham mưu...."
+  },
+  {
+    "id": "10.3.1",
+    "lesson": "BÀI 10",
+    "question": "Trong lĩnh vực công nghiệp, thương mại, dịch vụ, những ngành nào sau đây được coi là trọng tâm trong việc kết hợp phát triển kinh tế - xã hội với quốc phòng và an ninh?",
+    "options": [
+      "Cơ khí, luyện kim, điện, năng lượng mới, năng lương tái tạo, dầu khí hóa chất...",
+      "Khai thác có hiệu quả tiềm năng đất đai và lực lượng lao động để bảo vệ an ninh lương thực",
+      "Phát triển trồng rừng, khoanh nuôi bảo vệ rừng, định canh, định cư với xây dựng lực lượng quốc phòng",
+      "Phát triển hệ thống giao thông vận tải trên đường bộ, đường sắt, đường thủy nội địa..."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cơ khí, luyện kim, điện, năng lượng mới, năng lương tái tạo, dầu khí hóa chất...."
+  },
+  {
+    "id": "10.3.2",
+    "lesson": "BÀI 10",
+    "question": "Trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, những ngành nào sau đây được coi là trọng tâm trong việc kết hợp phát triển kinh tế - xã hội với quốc phòng và an ninh?",
+    "options": [
+      "Khai thác tiềm năng đất, phát triển trồng rừng, phát triển các loại hình dịch vụ trên biển...",
+      "Phát triển hệ thống giao thông vận tải trên đường bộ, đường sắt, đường thủy nội địa...",
+      "Phát triển hệ thống đường hàng hải, hàng không đảm bảo việc kết nối giao thông các vùng...",
+      "Khai thác mỏ, chế biến khoáng sản, công nghiệp tiêu dùng và công nghiệp thực phẩm..."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Khai thác tiềm năng đất, phát triển trồng rừng, phát triển các loại hình dịch vụ trên biển...."
+  },
+  {
+    "id": "10.3.3",
+    "lesson": "BÀI 10",
+    "question": "Trong lĩnh vực giao thông vận tải, những ngành nào sau đây được coi là trọng tâm trong việc kết hợp phát triển kinh tế - xã hội với quốc phòng và an ninh?",
+    "options": [
+      "Phát triển hệ thống giao thông vận tải trên đường bộ, đường sắt, đường thủy nội địa...",
+      "Khai thác mỏ, chế biến khoáng sản, công nghiệp tiêu dùng và công nghiệp thực phẩm...",
+      "Xây dựng hệ thống thông tin liên lạc dân sự kết hợp chặt chẽ với hệ thống thông tin liên lạc của các đơn vị",
+      "Xây dựng thế trận phòng thủ trên biển, góp phần bảo vệ chủ quyền và an ninh quốc gia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phát triển hệ thống giao thông vận tải trên đường bộ, đường sắt, đường thủy nội địa...."
+  },
+  {
+    "id": "10.3.4",
+    "lesson": "BÀI 10",
+    "question": "Trong lĩnh vực xây dựng các công trình chế tạo, vật liệu xây dựng, nhà ở, công sở, các công trình dân sự phải đảm bảo tính lưỡng dụng, đặc biệt là xây dựng ở các địa bàn trọng điểm về quốc phòng để:",
+    "options": [
+      "Đảm bảo phát triển kinh tế - xã hội và phục vụ quốc phòng",
+      "Đảm bảo phát triển văn hóa nghệ thuật phục vụ nhân dân",
+      "Đảm bảo sự phát triển đất nước theo hướng văn minh hiện đại",
+      "Đảm bảo nhu cầu phát triển của người dân trong một xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đảm bảo phát triển kinh tế - xã hội và phục vụ quốc phòng."
+  },
+  {
+    "id": "10.3.5",
+    "lesson": "BÀI 10",
+    "question": "“Xây dựng cơ chế chính sách quản lý kinh tế, đầu tư của nước ngoài vào Việt Nam và đầu tư của Việt Nam ra nước ngoài”. Nội dung trên được kết hợp trong các ngành, các lĩnh vực kinh tế chủ yếu nào?",
+    "options": [
+      "Đầu tư, quản lý kinh tế",
+      "Đầu tư, phát triển khoa học công nghệ",
+      "Đầu tư, phát triển y tế",
+      "Đầu tư, phát triển giáo dục"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đầu tư, quản lý kinh tế."
+  },
+  {
+    "id": "10.3.6",
+    "lesson": "BÀI 10",
+    "question": "Nội dung nào dưới đây không phải là giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh ở Việt Nam hiện nay?",
+    "options": [
+      "Xây dựng, luyện tập các phương án, các tình huống chống “Diễn biến hòa bình”, bạo loạn lật đổ của các thế lực thù địch",
+      "Bồi dưỡng nâng cao kiến thức, kinh nghiệm kết hợp phát triển kinh – tế xã hội với tăng cường, củng cố quốc phòng an ninh cho các đối tượng",
+      "Xây dựng chiến lược tổng thể kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh trong thời kỳ mới",
+      "Củng cố kiện toàn và phát huy vai trò tham mưu của cơ quan chuyên trách quốc phòng và an ninh các cấp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng, luyện tập các phương án, các tình huống chống “Diễn biến hòa bình”, bạo loạn lật đổ của các thế lực thù địch."
+  },
+  {
+    "id": "10.3.7",
+    "lesson": "BÀI 10",
+    "question": "Nội dung nào dưới đây thuộc 5 giải pháp chủ yếu thực hiện kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh ở Việt Nam hiện nay?",
+    "options": [
+      "Xây dựng chiến lược tổng thể kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh trong thời kỳ mới",
+      "Xây dựng lực lượng vũ tranh nhân dân trong điều kiện quốc tế đã thay đổi, có nhiều diễn biến phức tập",
+      "Xây dựng và bảo vệ chủ quyền lãnh thổ, biển đảo và biên giới quốc gia là một nội dung quan trọng",
+      "Xây dựng lực lượng dự bị động viên phải phát huy sức mạnh tổng hợp của cả hệ thống chính trị"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Xây dựng chiến lược tổng thể kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng và an ninh trong thời kỳ mới."
+  },
+  {
+    "id": "10.3.8",
+    "lesson": "BÀI 10",
+    "question": "Nội dung nào dưới đây không phải sự kết hợp phát triển kinh tế- xã hội với tăng cường, củng cố quốc phòng an ninh trong các ngành, các lĩnh vực kinh tế chủ yếu?",
+    "options": [
+      "Kết hợp chặt chẽ giữa việc xử lý, cảm hóa giáo dục các hoạt động tệ nạn",
+      "Kết hợp trong công nghiệp, thương mại dịch vụ, lao động – thương binh và xã hội",
+      "Kết hợp trong nông nghiệp, lâm nghiệp, ngư nghiệp và lao động – thương binh và xã hội",
+      "Kết hợp trong giáo dục và lao động – thương binh và xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Kết hợp chặt chẽ giữa việc xử lý, cảm hóa giáo dục các hoạt động tệ nạn."
+  },
+  {
+    "id": "10.3.9",
+    "lesson": "BÀI 10",
+    "question": "Nội dung nào dưới đây không phải là các hoạt động trong lĩnh vực quốc phòng và an ninh với kinh tế xã hội?",
+    "options": [
+      "Tác động phát triển, bồi dưỡng kiến thức thế lực thù địch",
+      "Bảo vệ và tạo điều kiện thúc đẩy kinh tế phát triển nguồn nhân lực",
+      "Kích thích kinh tế phát triển, tác động vật lực, tài lực của xã hội",
+      "Tác động nguồn nhân lực, vật lực và tài lực của xã hội"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tác động phát triển, bồi dưỡng kiến thức thế lực thù địch."
+  },
+  {
+    "id": "11.1.1",
+    "lesson": "BÀI 11",
+    "question": "Tập hợp một hàng ngang gồm thứ tự các bước nào sau đây?",
+    "options": [
+      "Tập hợp, điểm số, chỉnh đốn hàng ngũ, giải tán",
+      "Tập hợp, chỉnh đốn hàng ngũ, điểm số, giải tán",
+      "Tập hợp, chỉnh đốn hàng ngũ và giải tán",
+      "Tập hợp, điểm số và chỉnh đốn hàng ngũ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tập hợp, điểm số, chỉnh đốn hàng ngũ, giải tán."
+  },
+  {
+    "id": "11.1.2",
+    "lesson": "BÀI 11",
+    "question": "Khẩu lệnh của tập hợp một hàng ngang là:",
+    "options": [
+      "Tiểu đội, thành một hàng ngang... tập hợp",
+      "Tiểu đội, tập hợp thành một hàng ngang",
+      "Tiểu đội, một hàng ngang... tập hợp",
+      "Tiểu đội, tập hợp... thành một hàng ngang"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiểu đội, thành một hàng ngang... tập hợp."
+  },
+  {
+    "id": "11.1.3",
+    "lesson": "BÀI 11",
+    "question": "Tập hợp hai hàng ngang gồm thứ tự các bước nào sau đây?",
+    "options": [
+      "Tập hợp, chỉnh đốn hàng ngũ, giải tán",
+      "Tập hợp, chỉnh đống hàng ngũ, điểm số",
+      "Tập hợp, chỉnh đốn hàng, điểm số và giải tán",
+      "Tập hợp, điểm số và chỉnh đốn hàng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tập hợp, chỉnh đốn hàng ngũ, giải tán."
+  },
+  {
+    "id": "11.1.4",
+    "lesson": "BÀI 11",
+    "question": "Khẩu lệnh của tập hợp hai hàng ngang là:",
+    "options": [
+      "Tiểu đội, thành hai hàng ngang... tập hợp",
+      "Tiểu đội, tập hợp thành hai hàng ngang",
+      "Tiểu đội, hai hàng ngang... tập hợp",
+      "Tiểu đội, tập hợp... thành hai hàng ngang"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiểu đội, thành hai hàng ngang... tập hợp."
+  },
+  {
+    "id": "11.1.5",
+    "lesson": "BÀI 11",
+    "question": "Thứ tự các bước tập hợp hai hàng dọc là:",
+    "options": [
+      "Tập hợp, chỉnh đốn hàng ngũ, giải tán.",
+      "Tập hợp, chỉnh đốn hàng ngũ, điểm số, giải tán.",
+      "Tập hợp, điểm số, chỉnh đốn hàng ngũ, giải tán.",
+      "Tập hợp, chỉnh đốn hàng ngũ, giải tán, điểm số."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tập hợp, chỉnh đốn hàng ngũ, giải tán.."
+  },
+  {
+    "id": "11.1.6",
+    "lesson": "BÀI 11",
+    "question": "Khẩu lệnh của tập hợp một hàng dọc là:",
+    "options": [
+      "Tiểu đội, thành một hàng dọc... tập hợp",
+      "Tiểu đội, tập hợp thành một hàng dọc",
+      "Tiểu đội, một hàng dọc... tập hợp",
+      "Tiểu đội, tập hợp... thành một hàng dọc"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiểu đội, thành một hàng dọc... tập hợp."
+  },
+  {
+    "id": "11.2.1",
+    "lesson": "BÀI 11",
+    "question": "Ý nghĩa tập hợp đội hình trung đội một hàng ngang là:",
+    "options": [
+      "Vận dụng trong huấn luyện, nói chuyện, điểm danh, kiểm tra, điểm nghiệm, khám súng, giá súng, đặt súng....",
+      "Vận dụng trong học tập, sinh hoạt, kiểm điểm, kiểm tra quân số, khám súng, giá súng, đặt súng.",
+      "Vận dụng để đổi hướng nhanh chóng, chính xác mà vẫn giữ được vị trí đứng.",
+      "Vận dụng để di chuyển vị trí và đội hình trật tự, thống nhất hùng mạnh và nghiêm trang."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vận dụng trong huấn luyện, nói chuyện, điểm danh, kiểm tra, điểm nghiệm, khám súng, giá súng, đặt súng....."
+  },
+  {
+    "id": "11.2.2",
+    "lesson": "BÀI 11",
+    "question": "Ý nghĩa tập hợp đội hình một hàng dọc là:",
+    "options": [
+      "Vận dụng trong hành quân, hành tiến, đội hình trung đội, đại đội khi tập trung sinh hoạt, học tập.",
+      "Vận dụng để đổi hướng nhanh chóng, sinh hoạt, kiểm tra, kiểm điểm, chính xác mà vẫn giữ được vị trí đứng.",
+      "Vận dụng trong học tập, sinh hoạt, kiểm tra quân số, di chuyên, khám súng, giá súng.",
+      "Vận dụng để di chuyển vị trí và đội hình trật tự, thống nhất hùng mạnh và nghiêm trang."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Vận dụng trong hành quân, hành tiến, đội hình trung đội, đại đội khi tập trung sinh hoạt, học tập.."
+  },
+  {
+    "id": "11.2.3",
+    "lesson": "BÀI 11",
+    "question": "Sinh viên vận dụng được vào trong học tập, lao động sản xuất và sinh hoạt ngày thường với nội dung nào trong bài đơn vị đội ngũ đã được học?",
+    "options": [
+      "Sự nghiêm túc, nhanh nhẹn, khẩn trương và sự chấp hành mệnh lệnh, tư thế tác phong của người chỉ huy và sự linh hoạt",
+      "Không học được sự ngiêm túc, nhanh nhẹn, khẩn trương, sự chấp hành mệnh lệnh và khả năng thực hiện kỷ thuật, chiến thuật",
+      "Khả năng thực hiện kỹ thuật, chiến thuật tập hợp và vận dụng trong chiến đấu",
+      "Khả năng đánh giá tình hình học tập quân sự và nhận xét đánh giá đồng đội, đồng chí"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Sự nghiêm túc, nhanh nhẹn, khẩn trương và sự chấp hành mệnh lệnh, tư thế tác phong của người chỉ huy và sự linh hoạt."
+  },
+  {
+    "id": "12.1.1",
+    "lesson": "BÀI 12",
+    "question": "Loại súng nào sau đây có tầm bắn thẳng mục tiêu cao 1,5m khoảng cách bắn hiệu quả là 540m?",
+    "options": [
+      "Súng trung liên RPĐ",
+      "Súng trường CKC",
+      "Súng tiểu liên AK",
+      "Súng trường CKC, RPĐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Súng trung liên RPĐ."
+  },
+  {
+    "id": "12.1.2",
+    "lesson": "BÀI 12",
+    "question": "Điền vào ô trống đáp án đúng. Súng......... là loại vũ khí tự động, có hỏa lực mạnh của tiểu đội bộ binh, do một người sử dụng, để tiêu diệt sinh lực địch là loại súng không có lưỡi lê?",
+    "options": [
+      "Trung liên RPĐ",
+      "Tiểu liên AK",
+      "Trường CKC",
+      "Diệt tăng B41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Trung liên RPĐ."
+  },
+  {
+    "id": "12.1.3",
+    "lesson": "BÀI 12",
+    "question": "Điền vào ô trống đáp án đúng. Súng .......... có khối lượng nặng 4,3 kg khi đầy đủ đạn?",
+    "options": [
+      "Tiểu liên AK",
+      "Trung liên RPĐ",
+      "Trường CKC",
+      "Diệt tăng B41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tiểu liên AK."
+  },
+  {
+    "id": "12.1.4",
+    "lesson": "BÀI 12",
+    "question": "Tốc độ bắn liên thanh trong chiến đấu của súng tiểu liên AK là:",
+    "options": [
+      "100 phát/ phút",
+      "150 phát/ phút",
+      "40 phát/ phút",
+      "60 phát/ phút"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 100 phát/ phút."
+  },
+  {
+    "id": "12.1.5",
+    "lesson": "BÀI 12",
+    "question": "Tầm bắn hiệu quả của súng tiểu liên AK là:",
+    "options": [
+      "400m",
+      "500m",
+      "800m",
+      "1500m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 400m."
+  },
+  {
+    "id": "12.1.6",
+    "lesson": "BÀI 12",
+    "question": "Súng trường CKC có tầm bắn hiệu quả, hỏa lực tập trung mặt đất, bắn máy bay quân nhảy dù giống loại súng nào?",
+    "options": [
+      "Súng tiểu liên AK",
+      "Súng trung liên RPĐ",
+      "Súng trung liên RPK",
+      "Súng RPĐ và B41"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Súng tiểu liên AK."
+  },
+  {
+    "id": "12.1.7",
+    "lesson": "BÀI 12",
+    "question": "Nòng súng tiểu liên AK có tác dụng:",
+    "options": [
+      "Định hướng bay cho đầu đạn, làm cho đầu dạn xoay quanh trục",
+      "Ngắm bắn vào các mục tiêu ở cự ly khác nhau và chịu áp lực khí thuốc",
+      "Làm cho thoi chuyển động, và chịu áp lực khí thuốc",
+      "Đẩy đạn vào buồng đạn, đóng mở khóa nòng, làm đạn nổ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Định hướng bay cho đầu đạn, làm cho đầu dạn xoay quanh trục."
+  },
+  {
+    "id": "12.1.8",
+    "lesson": "BÀI 12",
+    "question": "Bộ phận ngắm có tác dụng:",
+    "options": [
+      "Ngắm bắn vào các mục tiêu ở cự ly khác nhau",
+      "Làm cho thoi chuyển động, thoi đẩy để chịu áp lực khí thuốc",
+      "Đẩy bệ khóa nòng, khóa nòng về phía trước và giữ nắp hộp khóa nòng",
+      "Đẩy đạn vào buồng đạn, đóng mở khóa nòng, làm đạn nổ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ngắm bắn vào các mục tiêu ở cự ly khác nhau."
+  },
+  {
+    "id": "12.1.9",
+    "lesson": "BÀI 12",
+    "question": "Ống dẫn thoi và ốp lót tay có tác dụng:",
+    "options": [
+      "Để dẫn thoi đẩy chuyển động",
+      "Để đẩy đạn vào buồng đạn",
+      "Để liên kết các bộ phận của súng",
+      "Để ngắm vào các mục tiêu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Để dẫn thoi đẩy chuyển động."
+  },
+  {
+    "id": "12.1.10",
+    "lesson": "BÀI 12",
+    "question": "Báng súng và tay cầm có tác dụng:",
+    "options": [
+      "Để tì súng vào vai và giữ súng khi bắn",
+      "Để dẫn thoi chuyển động và vững súng khi bắn",
+      "Để đẩy đạn vào buồng đạn khi bắn",
+      "Để liên kết các bộ phận của súng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Để tì súng vào vai và giữ súng khi bắn."
+  },
+  {
+    "id": "12.1.11",
+    "lesson": "BÀI 12",
+    "question": "Trong chiến đấu lưỡi lê súng AK có tác dụng:",
+    "options": [
+      "Đánh gần, cưa, kéo cắt dây thép gai.",
+      "Đánh địch ở khoảng cách xa",
+      "Để giữ búa giương, làm kim hỏa đập",
+      "Để giữ thông nòng cho chắc chắn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đánh gần, cưa, kéo cắt dây thép gai.."
+  },
+  {
+    "id": "12.1.12",
+    "lesson": "BÀI 12",
+    "question": "Người sử dụng, bảo quản, sửa chữa súng AK, khi tháo lắp phải.........?",
+    "options": [
+      "nắm vững cấu tạo của súng",
+      "nắm vững tính năng của súng",
+      "không thạo động tác tháo lắp",
+      "nắm vững tác dụng của súng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: nắm vững cấu tạo của súng."
+  },
+  {
+    "id": "12.1.13",
+    "lesson": "BÀI 12",
+    "question": "Trong quy tắc tháo lắp cần phải đảm bảo những quy định nào sau đây?",
+    "options": [
+      "Chọn nơi khô ráo, sạch sẽ hoặc có bạt, bàn",
+      "Chọn súng còn đầy đủ các bộ phận và đầy đủ dụng cụ",
+      "Chọn giảng viên bấm giờ",
+      "Chọn người hỗ trợ tháo lắp"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Chọn nơi khô ráo, sạch sẽ hoặc có bạt, bàn."
+  },
+  {
+    "id": "12.1.14",
+    "lesson": "BÀI 12",
+    "question": "Khi bắn súng diệt tăng B41 không được phép đặt súng .............., ngắm bắn bằng mắt ......... ./.",
+    "options": [
+      "lên vai trái...... trái.",
+      "lên vai phải...... phải.",
+      "lên vai trái.......phải.",
+      "lên vai phải......trái."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: lên vai trái...... trái.."
+  },
+  {
+    "id": "12.1.15",
+    "lesson": "BÀI 12",
+    "question": "Khi chuẩn bị bắn và tháo đạn B41 phía sau nòng súng phải có khoảng cách ít nhất........, so với trục nòng súng không được có thuốc nổ, chất dễ cháy hoặc có người qua lại là:",
+    "options": [
+      "30m và mỗi bên 22,5 0",
+      "10m và mỗi bên 15,5 0",
+      "20m và mỗi bên 22,5 0",
+      "15m và mỗi bên 22,3 0"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 30m và mỗi bên 22,5 0."
+  },
+  {
+    "id": "12.1.16",
+    "lesson": "BÀI 12",
+    "question": "Lựu đạn cần 97 và  1 trang bị cho từng người trong chiến đấu, dùng để...............của địch bằng mảnh kim loại và sức ép của khí thuốc.",
+    "options": [
+      "Sát thương sinh lực địch, các phương tiện chiến tranh",
+      "Tiêu diệt sinh lực và các phương tiện chiến tranh cố định từ xa",
+      "Phá vỡ công sự và có khả năng bắn hỏa lực thu hút địch",
+      "Đánh vào tên địch, tốp địch và là hỏa lực mạn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Sát thương sinh lực địch, các phương tiện chiến tranh."
+  },
+  {
+    "id": "12.1.17",
+    "lesson": "BÀI 12",
+    "question": "Thời gian cháy chậm của lựu đan cần 97 là bao nhiêu giây?",
+    "options": [
+      "3,2 đến 4,2 giây",
+      "4,2 đến 5,2 giây",
+      "5,2 đến 6,2 giây",
+      "2,2 đến 3,2 giây"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 3,2 đến 4,2 giây."
+  },
+  {
+    "id": "12.1.18",
+    "lesson": "BÀI 12",
+    "question": "Bán kính sát thương của lựu đạn cân 97 là bao nhiêu mét?",
+    "options": [
+      "5m",
+      "6m",
+      "7m",
+      "8m"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: 5m."
+  },
+  {
+    "id": "12.2.1",
+    "lesson": "BÀI 12",
+    "question": "Loại vũ khí bộ binh nào có tầm bắn xa nhất là 3600m, mà Anh (Chị) được trang bị trong chương trình cao đẳng môn Giáo dục quốc phòng & an ninh?",
+    "options": [
+      "Súng trường CKC",
+      "Súng tiểu liên AK47",
+      "Súng trung liên RPĐ",
+      "Súng tiểu liên AKMS"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Súng trường CKC."
+  },
+  {
+    "id": "12.2.2",
+    "lesson": "BÀI 12",
+    "question": "Hãy chọn đúng bộ phận cấu tạo của súng trường CKC?",
+    "options": [
+      "Thoi đẩy, cần đẩy và lò xo cần đẩy",
+      "Bệ khóa nòng và thoi đẩy và cần đẩy",
+      "Báng súng và tay cầm",
+      "Hộp tiếp đạn chứa 30 viên"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thoi đẩy, cần đẩy và lò xo cần đẩy."
+  },
+  {
+    "id": "12.2.3",
+    "lesson": "BÀI 12",
+    "question": "Loại súng nào sau đây có tầm bắn thẳng mục tiêu cao 0,5 cm khoảng cách bắn hiệu quả là 365m?",
+    "options": [
+      "Súng trường CKC, súng trung liên RPĐ",
+      "Súng trường CKC, Súng tiểu liên AK",
+      "Súng tiểu liên AK, súng trung liên RPĐ",
+      "Súng tiểu liên AK, súng trường CKC, súng trung liên RPĐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Súng trường CKC, súng trung liên RPĐ."
+  },
+  {
+    "id": "12.2.4",
+    "lesson": "BÀI 12",
+    "question": "Tầm ngắm ghi trên thước ngắm là 1- 10 của các loại súng nào sau đây?",
+    "options": [
+      "Súng tiểu liên AKM, AKMS, súng trường CKC, súng trung liên RPĐ",
+      "Súng tiểu liên AK47, AKM súng trường CKC, súng trung liên RPĐ",
+      "Súng tiểu liên AK47, AKMS súng trường CKC, súng trung liên RPĐ",
+      "Súng tiểu liên AK47, súng trường CKC, súng trung liên RPĐ"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Súng tiểu liên AKM, AKMS, súng trường CKC, súng trung liên RPĐ."
+  },
+  {
+    "id": "12.2.5",
+    "lesson": "BÀI 12",
+    "question": "Cấu tạo của súng trường CKC và súng tiểu liên AK khác nhau cơ bản những bộ phận nào sau đây? Anh (chị) chọn đáp án đúng nhất.",
+    "options": [
+      "Tay cầm báng súng, cần đẩy và lò xo cần đẩy, AK 11 bộ phận, CKC 12 bộ phận",
+      "Hộp khóa nòng và nắp hộp khóa nòng, ống dẫn thoi và óp lót tay trên, AK 12 bộ phận, CKC 11 bộ phận",
+      "Báng súng, lưỡi lê, bệ thước ngắm, bộ phận cò, cần đẩy và lò xo cần đẩy",
+      "Ống dẫn thoi, ốp lót tay trên, bộ phận ngắm, cần đẩy và lò xo cần đẩy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tay cầm báng súng, cần đẩy và lò xo cần đẩy, AK 11 bộ phận, CKC 12 bộ phận."
+  },
+  {
+    "id": "12.2.6",
+    "lesson": "BÀI 12",
+    "question": "Thứ tự của các bước tháo lắp ở dưới đây bước nào là đúng:",
+    "options": [
+      "Tháo hộp tiếp đạn, tháo ống phụ tùng, tháo thông nòng, tháo nắp hộp khóa nòng...",
+      "Tháo ống phụ tùng, tháo hộp tiếp đạn, tháo thông nòng, tháo nắp hộp khóa nòng...",
+      "Tháo thông nòng, tháo ống phụ tùng, tháo hộp tiếp đạn, tháo nắp hộp khóa nòng...",
+      "Tháo thông nòng, tháo hộp tiếp đạn, tháo ống phụ tùng, tháo nắp hộp khóa nòng..."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Tháo hộp tiếp đạn, tháo ống phụ tùng, tháo thông nòng, tháo nắp hộp khóa nòng...."
+  },
+  {
+    "id": "12.2.7",
+    "lesson": "BÀI 12",
+    "question": "Tại sao ốp lót tay của súng AK lại được thiết kế bằng gỗ?",
+    "options": [
+      "Hạn chế nóng cho tay khi bắn",
+      "Giúp bắn chính xác hơn",
+      "Giảm trọng lượng của súng",
+      "Hạn chế mức độ nẩy khi bắn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Hạn chế nóng cho tay khi bắn."
+  },
+  {
+    "id": "12.2.8",
+    "lesson": "BÀI 12",
+    "question": "Đường ngắm đúng là đường ngắm được xác định từ:",
+    "options": [
+      "Đường ngắm cơ bản đến điểm định ngắm trên mục tiêu",
+      "Đường ngắm cơ bản đến mục tiêu",
+      "Đường ngắm cơ bản đến tâm của mục tiêu",
+      "Đường ngắm từ mắt đến điểm định ngắm trên mục tiêu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Đường ngắm cơ bản đến điểm định ngắm trên mục tiêu."
+  },
+  {
+    "id": "12.2.9",
+    "lesson": "BÀI 12",
+    "question": "Trường hợp đường ngắm đúng, điểm ngắm đúng, mặt súng không nghiêng, đỉnh đầu ngắm cao hơn khe thước ngắm thì quỹ đạo đường đạn chạm vào mục tiêu trường hợp nào sâu đây?",
+    "options": [
+      "Cao hơn so với điểm định bắn trúng",
+      "Thấp hơn so với điểm định bắn trúng",
+      "Lệch sang phải",
+      "Lệch sang trái"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cao hơn so với điểm định bắn trúng."
+  },
+  {
+    "id": "12.2.10",
+    "lesson": "BÀI 12",
+    "question": "Trường hợp đường ngắm đúng, điểm ngắm đúng, mặt súng không nghiêng, đỉnh đầu ngắm thấp hơn khe thước ngắm thì quỹ đạo đường đạn chạm vào mục tiêu trường hợp nào sâu đây?",
+    "options": [
+      "Thấp hơn so với điểm định bắn trúng",
+      "Cao hơn so với điểm định bắn trúng",
+      "Lệch sang phải",
+      "Lệch sang trái"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Thấp hơn so với điểm định bắn trúng."
+  },
+  {
+    "id": "12.2.11",
+    "lesson": "BÀI 12",
+    "question": "Đường ngắm cơ bản là đường ngắm được xác định:",
+    "options": [
+      "Là một đường thẳng từ mắt qua chính giữa phía trên khe thước ngắm và đỉnh đầu ngắm",
+      "Từ chính giữa phía trên khe thước, qua chính giữa phía trên đỉnh đầu ngắm là một đường thẳng",
+      "Là một đường thẳng từ mắt đến đỉnh đầu ngắm",
+      "Là một đường thẳng từ mắt đến điểm cần bắn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Là một đường thẳng từ mắt qua chính giữa phía trên khe thước ngắm và đỉnh đầu ngắm."
+  },
+  {
+    "id": "12.2.12",
+    "lesson": "BÀI 12",
+    "question": "Trường hợp đường ngắm đúng, điểm ngắm đúng, mặt súng không nghiêng, đỉnh đầu ngắm lệch sang phải thì quỹ đạo đường đạn chạm vào mục tiêu trường hợp nào sâu đây?",
+    "options": [
+      "Cao và lệch sang phải so với điểm định bắn",
+      "Thấp và lệch sang phải so với điểm định bắn",
+      "Thấp hơn so với điểm định bắn trúng",
+      "Cao hơn so với điểm định bắn trúng"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cao và lệch sang phải so với điểm định bắn."
+  },
+  {
+    "id": "13.1.1",
+    "lesson": "BÀI 13",
+    "question": "Mục đích của cầm máu tạm thời vết thương không có nội dung nào sau đây?",
+    "options": [
+      "Không mất máu nhiều khi bị thương, nhanh chống làm lành vết thương",
+      "Nhanh chóng làm ngừng chảy máu bằng những biện pháp đơn giản",
+      "Hạn chế đến mức thấp nhất sự mất máu",
+      "Góp phần cứu sống tính mạng người bị nạn, tránh các tai biến nguy hiểm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Không mất máu nhiều khi bị thương, nhanh chống làm lành vết thương."
+  },
+  {
+    "id": "13.1.2",
+    "lesson": "BÀI 13",
+    "question": "Chảy máu động mạch có đặc điểm gì?",
+    "options": [
+      "Máu đỏ tươi chảy vọt thành tia hoặc trào qua miệng vết thương ra ngoài",
+      "Máu đỏ thẫm, chảy ri rỉ tại chỗ bị thương, lượng máu vừa phải",
+      "Máu đỏ thẫm, thấm tại chỗ bị thương, lượng máu ít hoặc rất ít",
+      "Máu đỏ tươi, nhanh chóng hình thành cục máu bít mạch máu bị tổn thương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Máu đỏ tươi chảy vọt thành tia hoặc trào qua miệng vết thương ra ngoài."
+  },
+  {
+    "id": "13.1.3",
+    "lesson": "BÀI 13",
+    "question": "Kỹ thuật ấn động mạch không có nội dung nào sau đây?",
+    "options": [
+      "Các mạch máu bị gấp và bị đè ép bởi các khối cơ bao quanh",
+      "Dùng ngón tay ấn đè trên đường đi của động mạch",
+      "Làm động mạch bị ép chặt giữa ngón tay ấn và nề xương",
+      "Có tác dụng cầm máu nhanh, ít gây đau và không gây tai biến nguy hiểm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Các mạch máu bị gấp và bị đè ép bởi các khối cơ bao quanh."
+  },
+  {
+    "id": "13.1.4",
+    "lesson": "BÀI 13",
+    "question": "Bước đầu tiên khi tiến hành đặt garô là gì?",
+    "options": [
+      "Ấn động mạch phía trên vết thương",
+      "Lót gạc chỗ định đặt garô",
+      "Băng vết thương và làm các thủ tục hành chính",
+      "Đặt garô rồi từ từ xoắn đến khi không thấy máu chảy ở vết thương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Ấn động mạch phía trên vết thương."
+  },
+  {
+    "id": "13.1.5",
+    "lesson": "BÀI 13",
+    "question": "Nội dung nào sau đây không phải là tổn thương do gãy xương?",
+    "options": [
+      "Mất tri giác, cảm giác và vận động, hệ bài tiết ngừng hoạt động",
+      "Xương bị gãy rạn, gãy rời thành 2 hay nhiều mảnh",
+      "Da, cơ bị giập nát nhiều, có thể tổn thương mạch máu và dây thần kinh",
+      "Rất dễ gây choáng do đau đớn, mất máu và nhiễm trùng do ô nhiễm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Mất tri giác, cảm giác và vận động, hệ bài tiết ngừng hoạt động."
+  },
+  {
+    "id": "13.1.6",
+    "lesson": "BÀI 13",
+    "question": "Khi vận chuyển nạn nhân bằng cáng, đầu của nạn nhân ở tư thế nào?",
+    "options": [
+      "Cao, nghiêng về một bên",
+      "Thấp, nghiêng về một bên",
+      "Cao, luôn ngửa ra sau",
+      "Thấp, luôn ngửa ra sau"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Cao, nghiêng về một bên."
+  },
+  {
+    "id": "13.2.1",
+    "lesson": "BÀI 13",
+    "question": "Nội dung nào sau đây không phải là mục đích của cố định tạm thời xương gãy?",
+    "options": [
+      "Làm cho nạn nhân có thể vận động lại bình thường",
+      "Làm giảm đau đớn, cầm máu tại vết thương",
+      "Giữ cho đầu xương tương đối yên tĩnh",
+      "Phòng ngừa các biến chứng: choáng, tổn thương thứ phát, nhiễm khuẩn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Làm cho nạn nhân có thể vận động lại bình thường."
+  },
+  {
+    "id": "13.2.2",
+    "lesson": "BÀI 13",
+    "question": "Nội dung nào sau đây không đúng với nguyên tắc cầm máu tạm thời vết thương?",
+    "options": [
+      "Phải hạn chế đến mức thấp nhất sự mất máu",
+      "Phải khẩn trương, nhanh chóng làm ngừng chảy máu",
+      "Phải xử trí đúng chỉ định theo tính chất của vết thương",
+      "Phải đúng quy trình kỹ thuật"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phải hạn chế đến mức thấp nhất sự mất máu."
+  },
+  {
+    "id": "13.2.3",
+    "lesson": "BÀI 13",
+    "question": "Nguyên tắc cố định tạm thời xương gãy không có nội dung nào dưới đây?",
+    "options": [
+      "Phải có phiếu cố định tạm thời xương gãy, có ký hiệu ưu tiên vận chuyển",
+      "Nẹp cố định phải cố định được cả khớp trên và khớp dưới ổ gãy",
+      "Không đặt nẹp cứng sát vào chi, phải đệm lót bằng bông mỡ, gạc",
+      "Không co kéo nắn chỉnh ổ gãy, băng cố định nẹp vào chi phải chắc chắn"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Phải có phiếu cố định tạm thời xương gãy, có ký hiệu ưu tiên vận chuyển."
+  },
+  {
+    "id": "13.2.4",
+    "lesson": "BÀI 13",
+    "question": "Chảy máu mao mạch có đặc điểm gì?",
+    "options": [
+      "Máu đỏ thẫm, thấm tại chỗ bị thương, lượng máu ít hoặc rất ít",
+      "Máu đỏ tươi chảy vọt thành tia hoặc trào qua miệng vết thương ra ngoài",
+      "Máu đỏ thẫm, chảy ri rỉ tại chỗ bị thương, lượng máu vừa phải",
+      "Máu đỏ tươi, nhanh chóng hình thành cục máu bít mạch máu bị tổn thương"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Đáp án đúng là: Máu đỏ thẫm, thấm tại chỗ bị thương, lượng máu ít hoặc rất ít."
+  }
+]

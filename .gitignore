@@ -1,0 +1,4 @@
+node_modules/
+extract.js
+parse_to_json.js
+extracted_text.txt
